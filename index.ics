@@ -1,0 +1,5111 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+X-WR-CALNAME:Calendrier
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:16010101T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=10
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=3
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E0080000000062C101B99C0FDB01000000000000000
+ 010000000B9CB69EC3F00E24193B20C90C5612BA9
+SUMMARY:RDV Salon différence
+DTSTART;TZID=Europe/Paris:20240927T160000
+DTEND;TZID=Europe/Paris:20240927T163000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:La Croix\, 78940 La Queue-les-Yvelines
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000FC6D40878212DB01000000000000000
+ 0100000008AD50C696BFC8E4293C6B0A972439BEB
+SUMMARY:Rdv Carrière Sustainability
+DTSTART;TZID=Romance Standard Time:20240930T080000
+DTEND;TZID=Romance Standard Time:20240930T083000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000AC1C6D9AC513DB01000000000000000
+ 01000000078731D375E48E3459A9322AD194A1818
+SUMMARY:Rdv carrière CV
+DTSTART;TZID=Europe/Paris:20241001T190000
+DTEND;TZID=Europe/Paris:20241001T193000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E0080000000003E4AB6E5013DB01000000000000000
+ 010000000669F8D577F1D024AB3E5A6D3E389E95E
+SUMMARY:Appel avec Bertil De Fos (Auxilia)
+DTSTART;TZID=Europe/Paris:20241004T120000
+DTEND;TZID=Europe/Paris:20241004T123000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000991619344B17DB01000000000000000
+ 010000000F895221022A923469EB441A74F4B476A
+SUMMARY:Visite appartement 
+DTSTART;TZID=Europe/Paris:20241008T170000
+DTEND;TZID=Europe/Paris:20241008T173000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000EE36DC625C1EDB01000000000000000
+ 010000000E8838A8B9C9D70408CD39154DFB12893
+SUMMARY:Visite appart 
+DTSTART;TZID=Romance Standard Time:20241015T173000
+DTEND;TZID=Romance Standard Time:20241015T180000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n_____________________________________________________________
+ ___________________\nMicrosoft Teams Need help?<https://aka.ms/JoinTeamsMe
+ eting?omkt=en-US>\nJoin the meeting now<https://teams.microsoft.com/l/meet
+ up-join/19%3ameeting_NTg1MGQ4ZmUtNGUxMS00OWFhLWJlM2UtOThlZjMzZWRjNmNl%40th
+ read.v2/0?context=%7b%22Tid%22%3a%2269d4d246-fd23-401b-9745-ff5ecb5a765d%2
+ 2%2c%22Oid%22%3a%224496ec45-c0f7-4eec-9e93-579ce3681a99%22%7d>\nMeeting ID
+ : 325 482 339 031\nPasscode: thqX4U\n________________________________\nFor
+  organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?o
+ rganizerId=4496ec45-c0f7-4eec-9e93-579ce3681a99&tenantId=69d4d246-fd23-401
+ b-9745-ff5ecb5a765d&threadId=19_meeting_NTg1MGQ4ZmUtNGUxMS00OWFhLWJlM2UtOT
+ hlZjMzZWRjNmNl@thread.v2&messageId=0&language=en-US>\n____________________
+ ____________________________________________________________\n
+UID:040000008200E00074C5B7101A82E00800000000B0B37B17B823DB01000000000000000
+ 010000000D4715B1787D0BF4D8A26186D0FCB6D6D
+SUMMARY:Internship interview Veolia
+DTSTART;TZID=Europe/Paris:20241023T140000
+DTEND;TZID=Europe/Paris:20241023T144500
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Code d'accès du webinar réunion : 852 1024 8762...\n
+UID:040000008200E00074C5B7101A82E00800000000EE83663E0E26DB01000000000000000
+ 010000000C2AD489D6655DA4FA2054B05A391301D
+SUMMARY:COP16 Biodiversité : "Peace with Nature"\, quels sont les enjeux d
+ errière la COP en cours ?
+DTSTART;TZID=Romance Standard Time:20241029T180000
+DTEND;TZID=Romance Standard Time:20241029T193000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:https://us02web.zoom.us/j/85210248762
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000FF3CE6B1E023DB01000000000000000
+ 010000000265715136F4B2447871E72EBA3C6A011
+SUMMARY:ESN pumpkin carving
+DTSTART;TZID=Romance Standard Time:20241029T193000
+DTEND;TZID=Romance Standard Time:20241029T210000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Hochschule der Medien
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:You don't often get email from justine_gomez@ext.carrefour.com.
+  Learn why this is important<https://aka.ms/LearnAboutSenderIdentification
+ >\nEntretien Stage Arthur Louart\nParticiper avec Google Meet - Vous avez 
+ été invité par Justine GOMEZ à participer à un événement appelé En
+ tretien Stage Arthur Louart le lundi 4 nov. 2024 ⋅ 18:00 – 18:45 (Heur
+ e d’Europe centrale - Paris).\n\n<https://eur02.safelinks.protection.out
+ look.com/?url=https%3A%2F%2Fmeet.google.com%2Fkjd-qati-pwt%3Fhs%3D224&data
+ =05%7C02%7Carthur.louart%40hec.edu%7Ce7c3aef44d7f4bcfb60408dcf9c77fbb%7C69
+ d4d246fd23401b9745ff5ecb5a765d%7C1%7C0%7C638659882451407838%7CUnknown%7CTW
+ FpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%
+ 3D%7C0%7C%7C%7C&sdata=AHtjpNWIl%2FHRQfNWDLwl4sXKeNXEs2vIkAL7s9xRwcc%3D&res
+ erved=0>\nParticiper avec Google Meet\nLien de la réunion\nmeet.google.co
+ m/kjd-qati-pwt<https://eur02.safelinks.protection.outlook.com/?url=https%3
+ A%2F%2Fmeet.google.com%2Fkjd-qati-pwt%3Fhs%3D224&data=05%7C02%7Carthur.lou
+ art%40hec.edu%7Ce7c3aef44d7f4bcfb60408dcf9c77fbb%7C69d4d246fd23401b9745ff5
+ ecb5a765d%7C1%7C0%7C638659882451449374%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4
+ wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata
+ =i4fTj1YpVfYzrKP7pBGgKInJs1dmiCYq33vTXKAxBkU%3D&reserved=0>\nParticiper pa
+ r téléphone\n(FR) +33 1 87 40 49 81<tel:+33-1-87-40-49-81%3B696012896%23
+ >\nCODE SECRET: 696012896\n\nPlus de numéros de téléphone<https://eur02
+ .safelinks.protection.outlook.com/?url=https%3A%2F%2Ftel.meet%2Fkjd-qati-p
+ wt%3Fpin%3D8835260788783%26hs%3D0&data=05%7C02%7Carthur.louart%40hec.edu%7
+ Ce7c3aef44d7f4bcfb60408dcf9c77fbb%7C69d4d246fd23401b9745ff5ecb5a765d%7C1%7
+ C0%7C638659882451466514%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIj
+ oiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=4sIpHStL11D3PG
+ %2FAot9FVUYq2sIo9%2BSYCHk8grBzs7Q%3D&reserved=0>\nDate\nlundi 4 nov. 2024 
+ ⋅ 18:00 – 18:45 (Heure d’Europe centrale - Paris)\nInvités\nJustine
+  GOMEZ<mailto:justine_gomez@ext.carrefour.com> - organisateur\narthur.loua
+ rt@hec.edu<mailto:arthur.louart@hec.edu>\nAngelique DIARRA<mailto:angeliqu
+ e_diarra@carrefour.com> - facultatif\nMarianne SABEL<mailto:marianne_sabel
+ @carrefour.com> - facultatif\nManon CAUDRELIER-BENAC<mailto:manon_caudreli
+ er_benac@carrefour.com> - facultatif\nAfficher les informations sur tous l
+ es invités<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2
+ F%2Fcalendar.google.com%2Fcalendar%2Fevent%3Faction%3DVIEW%26eid%3DMGRsbWV
+ pbTA2MGpxajc3czcwbWticjh2ZDEgYXJ0aHVyLmxvdWFydEBoZWMuZWR1%26tok%3DMzEjanVz
+ dGluZV9nb21lekBleHQuY2FycmVmb3VyLmNvbWZkZTFmYjE2OGE2MTA0NWI5ZmZkMzM3MGQ4ZW
+ U3ZjM1NTQxMWM0OGY%26ctz%3DEurope%252FParis%26hl%3Dfr%26es%3D0&data=05%7C02
+ %7Carthur.louart%40hec.edu%7Ce7c3aef44d7f4bcfb60408dcf9c77fbb%7C69d4d246fd
+ 23401b9745ff5ecb5a765d%7C1%7C0%7C638659882451482736%7CUnknown%7CTWFpbGZsb3
+ d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7
+ C%7C%7C&sdata=i61eU13kh3OVOFSE6E7w4lrhOZ%2FxLmiHLdXGPrVVe1U%3D&reserved=0>
+ \nRépondre pour arthur.louart@hec.edu<mailto:arthur.louart@hec.edu>\n<htt
+ ps://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcalendar.go
+ ogle.com%2Fcalendar%2Fevent%3Faction%3DRESPOND%26eid%3DMGRsbWVpbTA2MGpxajc
+ 3czcwbWticjh2ZDEgYXJ0aHVyLmxvdWFydEBoZWMuZWR1%26rst%3D1%26tok%3DMzEjanVzdG
+ luZV9nb21lekBleHQuY2FycmVmb3VyLmNvbWZkZTFmYjE2OGE2MTA0NWI5ZmZkMzM3MGQ4ZWU3
+ ZjM1NTQxMWM0OGY%26ctz%3DEurope%252FParis%26hl%3Dfr%26es%3D0&data=05%7C02%7
+ Carthur.louart%40hec.edu%7Ce7c3aef44d7f4bcfb60408dcf9c77fbb%7C69d4d246fd23
+ 401b9745ff5ecb5a765d%7C1%7C0%7C638659882451499349%7CUnknown%7CTWFpbGZsb3d8
+ eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%
+ 7C%7C&sdata=CNF3Iy3vJQT0ob49rmVlUAWeRx1x87bWox3ut89NtJo%3D&reserved=0>\nOu
+ i\n<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcale
+ ndar.google.com%2Fcalendar%2Fevent%3Faction%3DRESPOND%26eid%3DMGRsbWVpbTA2
+ MGpxajc3czcwbWticjh2ZDEgYXJ0aHVyLmxvdWFydEBoZWMuZWR1%26rst%3D2%26tok%3DMzE
+ janVzdGluZV9nb21lekBleHQuY2FycmVmb3VyLmNvbWZkZTFmYjE2OGE2MTA0NWI5ZmZkMzM3M
+ GQ4ZWU3ZjM1NTQxMWM0OGY%26ctz%3DEurope%252FParis%26hl%3Dfr%26es%3D0&data=05
+ %7C02%7Carthur.louart%40hec.edu%7Ce7c3aef44d7f4bcfb60408dcf9c77fbb%7C69d4d
+ 246fd23401b9745ff5ecb5a765d%7C1%7C0%7C638659882451532787%7CUnknown%7CTWFpb
+ GZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%
+ 7C0%7C%7C%7C&sdata=4hK4j1O5%2BxMBfBTfflHd%2BWUPVhFBj1KEXjk3LICXQQM%3D&rese
+ rved=0>\nNon\n<https://eur02.safelinks.protection.outlook.com/?url=https%3
+ A%2F%2Fcalendar.google.com%2Fcalendar%2Fevent%3Faction%3DRESPOND%26eid%3DM
+ GRsbWVpbTA2MGpxajc3czcwbWticjh2ZDEgYXJ0aHVyLmxvdWFydEBoZWMuZWR1%26rst%3D3%
+ 26tok%3DMzEjanVzdGluZV9nb21lekBleHQuY2FycmVmb3VyLmNvbWZkZTFmYjE2OGE2MTA0NW
+ I5ZmZkMzM3MGQ4ZWU3ZjM1NTQxMWM0OGY%26ctz%3DEurope%252FParis%26hl%3Dfr%26es%
+ 3D0&data=05%7C02%7Carthur.louart%40hec.edu%7Ce7c3aef44d7f4bcfb60408dcf9c77
+ fbb%7C69d4d246fd23401b9745ff5ecb5a765d%7C1%7C0%7C638659882451566237%7CUnkn
+ own%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJX
+ VCI6Mn0%3D%7C0%7C%7C%7C&sdata=9QS6HoJ542kiiS%2Fe3ByEXCK03hcdu%2BhrEn4wJcZI
+ Ffc%3D&reserved=0>\nPeut-être\n<https://eur02.safelinks.protection.outloo
+ k.com/?url=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Fevent%3Faction%3
+ DVIEW%26eid%3DMGRsbWVpbTA2MGpxajc3czcwbWticjh2ZDEgYXJ0aHVyLmxvdWFydEBoZWMu
+ ZWR1%26tok%3DMzEjanVzdGluZV9nb21lekBleHQuY2FycmVmb3VyLmNvbWZkZTFmYjE2OGE2M
+ TA0NWI5ZmZkMzM3MGQ4ZWU3ZjM1NTQxMWM0OGY%26ctz%3DEurope%252FParis%26hl%3Dfr%
+ 26es%3D0&data=05%7C02%7Carthur.louart%40hec.edu%7Ce7c3aef44d7f4bcfb60408dc
+ f9c77fbb%7C69d4d246fd23401b9745ff5ecb5a765d%7C1%7C0%7C638659882451599657%7
+ CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWw
+ iLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=RMG9z8W9YLdbGFMU8fCXgPsqVoZIXMlkLpPyu8d
+ AyBA%3D&reserved=0>\nAutres options\n\nInvitation de Google Agenda<https:/
+ /eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcalendar.google
+ .com%2Fcalendar%2F&data=05%7C02%7Carthur.louart%40hec.edu%7Ce7c3aef44d7f4b
+ cfb60408dcf9c77fbb%7C69d4d246fd23401b9745ff5ecb5a765d%7C1%7C0%7C6386598824
+ 51634387%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBT
+ iI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=uyK%2BDql3h6ReqmAMk%2BZmVclr4
+ 9zcr7P%2F62NSEjRV6FI%3D&reserved=0>\n\nVous recevez cet e-mail\, car vous 
+ participez à l’événement. Refusez cet événement pour ne plus recevo
+ ir de notifications le concernant.\n\nEn transférant cette invitation\, v
+ ous risquez d’autoriser tous les destinataires à envoyer une réponse 
+ à l’organisateur\, à être ajoutés à la liste des invités\, à invi
+ ter d’autres personnes indépendamment de l’état de l’invitation qu
+ ’ils ont reçue\, ou à modifier votre réponse à l’invitation. En sa
+ voir plus<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%
+ 2Fsupport.google.com%2Fcalendar%2Fanswer%2F37135%23forwarding&data=05%7C02
+ %7Carthur.louart%40hec.edu%7Ce7c3aef44d7f4bcfb60408dcf9c77fbb%7C69d4d246fd
+ 23401b9745ff5ecb5a765d%7C1%7C0%7C638659882451650384%7CUnknown%7CTWFpbGZsb3
+ d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7
+ C%7C%7C&sdata=GCXcpIj6M3HhlFiAOGzIjOrwhhxWDCNCe08ncopVxdI%3D&reserved=0>\n
+ \nThis e-mail and any attachment are confidential and intended solely for 
+ the use of the individual to whom it is addressed. If you are not the inte
+ nded recipient\, please telephone or email the sender and delete this mess
+ age and any attachment from your system. Unauthorized publication\, use\, 
+ dissemination\, forwarding\, printing or copying of this e-mail and its as
+ sociated attachments is strictly prohibited.\n\nLet's respect the environm
+ ent together. Only print this message if necessary.\n
+UID:0dlmeim060jqj77s70mkbr8vd1@google.com
+SUMMARY:Entretien Stage Arthur Louart
+DTSTART;TZID=Romance Standard Time:20241104T180000
+DTEND;TZID=Romance Standard Time:20241104T184500
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bonjour Arthur\,\n\nJe vous propose de nous entretenir demain 
+ à 10h30 si cela vous convient.\n\nVous n'avez rien à préparer 🙂\, no
+ us allons juste parler de votre parcours et ce qui vous intéresse/motive 
+ à rejoindre notre groupe.\n\nBien à vous\n______________________________
+ __\nFrom: Arthur LOUART <arthur.louart@hec.edu>\nSent: Tuesday\, October 2
+ 9\, 2024 1:23:47 PM\nTo: DE OLIVEIRA Léana <leana.de.oliveira@fnacdarty.c
+ om>\nSubject: Re: Candidature - Chargé(e) de Projets RSE en stage (H/F\n\
+ nBonjour\,\n\nPas de soucis. Après vérification j'ai aussi une disponibi
+ lité demain à partir de 15h. Sinon la semaine prochaine je peux proposer
+  lundi à partir de 9h30\, mardi toute la journée\, ou mercredi à partir
+  de 9h30.\n\nPouvez-vous m'indiquer s'il faut que je prépare certaines ch
+ oses en vue de l'entretien ?\n\nBonne journée\nArthur Louart\n___________
+ _____________________\nFrom: DE OLIVEIRA Léana <leana.de.oliveira@fnacdar
+ ty.com>\nSent: Tuesday\, October 29\, 2024 2:20:42 PM\nTo: Arthur LOUART <
+ arthur.louart@hec.edu>\nSubject: RE: Candidature - Chargé(e) de Projets R
+ SE en stage (H/F\n\nBonjour Arthur\,\n\nMalheureusement je ne suis pas dis
+ po sur ces créneaux.\n\nEt la semaine prochaine ?\n\nBien à toi\n\n\n[ci
+ d:ac63ea94-004e-45e3-b4ba-59b22379dc0b]\n\nLéana DE OLIVEIRA\n\nChargée 
+ de Recrutement et Relations Ecoles\n\nDirection des Ressources Humaines\n\
+ n\nAbsente les jeudis et vendredis\n\n\n\nleana.de.oliveira@fnacdarty.com<
+ mailto:leana.de.oliveira@fnacdarty.com>\n\n\n07 64 41 55 46\n\n01 55 21 28
+  60\n\n\n\n9\, rue des Bateaux-Lavoirs\n\n94200 Ivry-sur-Seine[cid:6fb3a3b
+ 4-0079-445f-9043-84ee71a5f965]\n\n________________________________\nDe : A
+ rthur LOUART <arthur.louart@hec.edu>\nEnvoyé : lundi 28 octobre 2024 17:5
+ 3\nÀ : DE OLIVEIRA Léana <leana.de.oliveira@fnacdarty.com>\nObjet : Re: 
+ Candidature - Chargé(e) de Projets RSE en stage (H/F\n\nBonjour\,\n\nMerc
+ i pour votre retour\, je suis heureux que mon profil vous intéresse. J'ai
+ merais idéalement commencer début janvier\, mais si nécessaire je peux 
+ me rendre disponible à partir de mi-décembre.\nJ'ai effectivement des di
+ sponibilités cette semaine pour un entretien. Voici quelques créneaux\, 
+ je vous laisse m'envoyer une invitation Teams :\n\n  *\nDemain mardi 29 ju
+ squ'à 17h\n  *\nJeudi toute la journée\n\nBien à vous\,\n[cid:cac7b957-
+ 8309-4be5-835a-75a8a4586a47]\n\nArthur Louart\n\nHEC Paris\, Master in Man
+ agement\n\nProgramme Grande École\, Promotion 2026\n\n+33 6 41 45 01 75 /
+  arthur.louart@hec.edu\n\n________________________________\nFrom: DE OLIVE
+ IRA Léana <leana.de.oliveira@fnacdarty.com>\nSent: Monday\, October 28\, 
+ 2024 12:35\nTo: Arthur LOUART <arthur.louart@hec.edu>\nSubject: RE: Candid
+ ature - Chargé(e) de Projets RSE en stage (H/F\n\nYou don't often get ema
+ il from leana.de.oliveira@fnacdarty.com. Learn why this is important<https
+ ://aka.ms/LearnAboutSenderIdentification>\nBonjour Arthur\,\n\nJ'espère q
+ ue vous allez bien.\n\nJe voulais savoir si vous aviez la possibilité de 
+ commencer plus tôt courant novembre décembre ?\n\nNous sommes très int
+ éressés par votre profil donc nous aimerions vous avoir dès que possibl
+ e.\n\nEnfin\, pour la poursuite du processus de recrutement\, avez-vous de
+ s dispos cette semaine pour programmer un entretien TEAMS ?\n\nBien à vou
+ s 🙂\n\n\n\n[cid:e3407531-10f0-4ecd-817e-c5f58c691639]\n\nLéana DE OLIV
+ EIRA\n\nChargée de Recrutement et Relations Ecoles\n\nDirection des Resso
+ urces Humaines\n\n\nAbsente les jeudis et vendredis\n\n\n\nleana.de.olivei
+ ra@fnacdarty.com<mailto:leana.de.oliveira@fnacdarty.com>\n\n\n07 64 41 55 
+ 46\n\n01 55 21 28 60\n\n\n\n9\, rue des Bateaux-Lavoirs\n\n94200 Ivry-sur-
+ Seine[cid:ba835bf9-9ddd-4863-bb66-3022887e559d]\n\n_______________________
+ _________\nDe : Arthur LOUART <arthur.louart@hec.edu>\nEnvoyé : mardi 22 
+ octobre 2024 22:26\nÀ : DE OLIVEIRA Léana <leana.de.oliveira@fnacdarty.c
+ om>\nObjet : Re: Candidature - Chargé(e) de Projets RSE en stage (H/F\n\n
+ Bonjour Mme De Oliveira\,\n\nMerci pour votre retour\, je suis très heure
+ ux que mon profil ait attiré votre attention. Je suis effectivement toujo
+ urs à la recherche d'un stage de 6 mois\, idéalement à partir de janvie
+ r 2025\, et toujours intéressé par le poste que vous proposez en "Charg
+ é(e) de Projets RSE en stage".\nJe vous laisse m'indiquer la suite de la 
+ procédure de recrutement\, pour laquelle je reste à votre disposition.\n
+ \nEn vous souhaitant une belle journée.\nBien cordialement\,\n[cid:be9841
+ 8f-cc41-435e-baf4-4181c7913118]\n\nArthur Louart\n\nHEC Paris\, Master in 
+ Management\n\nProgramme Grande École\, Promotion 2026\n\n+33 6 41 45 01 7
+ 5 / arthur.louart@hec.edu\n\n________________________________\nFrom: DE OL
+ IVEIRA Léana <leana.de.oliveira@fnacdarty.com>\nSent: Tuesday\, October 2
+ 2\, 2024 17:52\nSubject: Candidature - Chargé(e) de Projets RSE en stage 
+ (H/F\n\nYou don't often get email from leana.de.oliveira@fnacdarty.com. Le
+ arn why this is important<https://aka.ms/LearnAboutSenderIdentification>\n
+ Bonjour\,\n\nNous avons étudié votre candidature avec une grande attenti
+ on.\nAprès analyse\, nous aimerions confirmer avec vous que vous êtes to
+ ujours à la recherche d'un stage de 6 mois et si vous avez la possibilit
+ é de débuter soit dès maintenant ou pour janvier 2025\nSi c’est le ca
+ s\, merci de me faire un retour par mail.\nDans le cas contraire\, nous re
+ grettons de ne pas pouvoir donner suite à votre candidature. Cependant\, 
+ nous vous invitons à consulter régulièrement nos offres qui pourraient 
+ correspondre à votre profil.\nBien à vous\n\n\n\n\n[cid:31b983a8-8168-45
+ 71-ade8-1f86b1fc7905]\n\nLéana DE OLIVEIRA\n\nChargée de Recrutement et 
+ Relations Ecoles\n\nDirection des Ressources Humaines\n\n\nAbsente les jeu
+ dis et vendredis\n\n\n\nleana.de.oliveira@fnacdarty.com<mailto:leana.de.ol
+ iveira@fnacdarty.com>\n\n\n07 64 41 55 46\n\n01 55 21 28 60\n\n\n\n9\, rue
+  des Bateaux-Lavoirs\n\n94200 Ivry-sur-Seine[cid:f974e7d9-8aa4-45a0-afec-1
+ 436eeb0310c]\n\n\n________________________________\n\n\nCe message et tout
+ es les pièces jointes qu’il contient sont uniquement destinés aux pers
+ onnes auxquelles ils sont adressés et sont strictement confidentiels. A m
+ oins qu'il en ait été explicitement convenu autrement\, son contenu ne r
+ eflète que la pensée personnelle de son auteur et ne saurait donc repré
+ senter la vision officielle de l'Entreprise. Si vous avez reçu ce message
+  par erreur\, nous vous remercions de bien vouloir en informer l'expédite
+ ur immédiatement par retour d’email et supprimer définitivement le mes
+ sage de vos répertoires. Toute utilisation de ce message non conforme à 
+ sa destination\, toute diffusion ou toute publication\, totale ou partiell
+ e\, est interdite\, sauf autorisation expresse. L'internet ne permettant p
+ as d'assurer l'intégrité de ce message\, l’Entreprise décline toute r
+ esponsabilité au titre de ce message\, dans l'hypothèse où il aurait é
+ té modifié.\n\n\nThis message including any attachments is confidential 
+ and intended solely for the addressees. Unless explicitly mentioned\, its 
+ content reflects only the personal thoughts of the author\, and therefore 
+ cannot represent the official view of the Company. If received by error\, 
+ please inform immediately the sender by return e-mail and delete definitel
+ y the message from any and all directories. Any use\, dissemination or dis
+ closure not in conformity with the intended purposes is strictly prohibite
+ d. The integrity of messages via Internet cannot be guaranteed and the Com
+ pany accepts no liability for any changes which may occur.\n\n____________
+ ____________________\n\nSi vous recevez ce message pendant votre temps de 
+ repos\, vous n’êtes pas tenu d’y répondre.\n\n______________________
+ __________\n\n\nCe message et toutes les pièces jointes qu’il contient 
+ sont uniquement destinés aux personnes auxquelles ils sont adressés et s
+ ont strictement confidentiels. A moins qu'il en ait été explicitement co
+ nvenu autrement\, son contenu ne reflète que la pensée personnelle de so
+ n auteur et ne saurait donc représenter la vision officielle de l'Entrepr
+ ise. Si vous avez reçu ce message par erreur\, nous vous remercions de bi
+ en vouloir en informer l'expéditeur immédiatement par retour d’email e
+ t supprimer définitivement le message de vos répertoires. Toute utilisat
+ ion de ce message non conforme à sa destination\, toute diffusion ou tout
+ e publication\, totale ou partielle\, est interdite\, sauf autorisation ex
+ presse. L'internet ne permettant pas d'assurer l'intégrité de ce message
+ \, l’Entreprise décline toute responsabilité au titre de ce message\, 
+ dans l'hypothèse où il aurait été modifié.\n\n\nThis message includin
+ g any attachments is confidential and intended solely for the addressees. 
+ Unless explicitly mentioned\, its content reflects only the personal thoug
+ hts of the author\, and therefore cannot represent the official view of th
+ e Company. If received by error\, please inform immediately the sender by 
+ return e-mail and delete definitely the message from any and all directori
+ es. Any use\, dissemination or disclosure not in conformity with the inten
+ ded purposes is strictly prohibited. The integrity of messages via Interne
+ t cannot be guaranteed and the Company accepts no liability for any change
+ s which may occur.\n\n________________________________\n\nSi vous recevez 
+ ce message pendant votre temps de repos\, vous n’êtes pas tenu d’y r
+ épondre.\n\n________________________________\n\n\nCe message et toutes le
+ s pièces jointes qu’il contient sont uniquement destinés aux personnes
+  auxquelles ils sont adressés et sont strictement confidentiels. A moins 
+ qu'il en ait été explicitement convenu autrement\, son contenu ne reflè
+ te que la pensée personnelle de son auteur et ne saurait donc représente
+ r la vision officielle de l'Entreprise. Si vous avez reçu ce message par 
+ erreur\, nous vous remercions de bien vouloir en informer l'expéditeur im
+ médiatement par retour d’email et supprimer définitivement le message 
+ de vos répertoires. Toute utilisation de ce message non conforme à sa de
+ stination\, toute diffusion ou toute publication\, totale ou partielle\, e
+ st interdite\, sauf autorisation expresse. L'internet ne permettant pas d'
+ assurer l'intégrité de ce message\, l’Entreprise décline toute respon
+ sabilité au titre de ce message\, dans l'hypothèse où il aurait été m
+ odifié.\n\n\nThis message including any attachments is confidential and i
+ ntended solely for the addressees. Unless explicitly mentioned\, its conte
+ nt reflects only the personal thoughts of the author\, and therefore canno
+ t represent the official view of the Company. If received by error\, pleas
+ e inform immediately the sender by return e-mail and delete definitely the
+  message from any and all directories. Any use\, dissemination or disclosu
+ re not in conformity with the intended purposes is strictly prohibited. Th
+ e integrity of messages via Internet cannot be guaranteed and the Company 
+ accepts no liability for any changes which may occur.\n\n_________________
+ _______________\n\nSi vous recevez ce message pendant votre temps de repos
+ \, vous n’êtes pas tenu d’y répondre.\n\n___________________________
+ _____________________________________________________\nMicrosoft Teams Bes
+ oin d'aide ?<https://eur02.safelinks.protection.outlook.com/?url=https%3A%
+ 2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Dfr-FR&data=05%7C02%7Carthur.louart
+ %40hec.edu%7C3b4deee709e24340453708dcfcbb5310%7C69d4d246fd23401b9745ff5ecb
+ 5a765d%7C1%7C0%7C638663128724788918%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLj
+ AwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=e7
+ xQNQ6JeXPTRx0U5wP6xMNEVx2224aj4oh910%2Bmf3I%3D&reserved=0>\nRejoignez la r
+ éunion maintenant<https://eur02.safelinks.protection.outlook.com/ap/t-595
+ 84e83/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ame
+ eting_MzQyMWNhZjItMDNlNS00ZTQxLWJmMzQtNjM1MjNlZjc3NTJh%2540thread.v2%2F0%3
+ Fcontext%3D%257b%2522Tid%2522%253a%2522ee736e01-987f-46aa-a144-79812f19df5
+ 6%2522%252c%2522Oid%2522%253a%25221d70475e-cab4-4260-abe8-1d0fe1a6ae18%252
+ 2%257d&data=05%7C02%7Carthur.louart%40hec.edu%7C3b4deee709e24340453708dcfc
+ bb5310%7C69d4d246fd23401b9745ff5ecb5a765d%7C1%7C0%7C638663128724822748%7CU
+ nknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiL
+ CJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=ruBZlcfyzjT1eOeTN3XKii2kv80zvEb7OiD7jnXhS
+ UE%3D&reserved=0>\nID de réunion : 313 037 430 858\nCode secret : Uy7tjs\
+ n________________________________\nPour les organisateurs : Options de ré
+ union<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fte
+ ams.microsoft.com%2FmeetingOptions%2F%3ForganizerId%3D1d70475e-cab4-4260-a
+ be8-1d0fe1a6ae18%26tenantId%3Dee736e01-987f-46aa-a144-79812f19df56%26threa
+ dId%3D19_meeting_MzQyMWNhZjItMDNlNS00ZTQxLWJmMzQtNjM1MjNlZjc3NTJh%40thread
+ .v2%26messageId%3D0%26language%3Dfr-FR&data=05%7C02%7Carthur.louart%40hec.
+ edu%7C3b4deee709e24340453708dcfcbb5310%7C69d4d246fd23401b9745ff5ecb5a765d%
+ 7C1%7C0%7C638663128724841363%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiL
+ CJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=tHBmAO86S
+ YO2iOboDPuxUhHB2KKP79vn1hVEn%2Fo5VbM%3D&reserved=0>\n_____________________
+ ___________________________________________________________\n\n___________
+ _____________________\n\n\nCe message et toutes les pièces jointes qu’i
+ l contient sont uniquement destinés aux personnes auxquelles ils sont adr
+ essés et sont strictement confidentiels. A moins qu'il en ait été expli
+ citement convenu autrement\, son contenu ne reflète que la pensée person
+ nelle de son auteur et ne saurait donc représenter la vision officielle d
+ e l'Entreprise. Si vous avez reçu ce message par erreur\, nous vous remer
+ cions de bien vouloir en informer l'expéditeur immédiatement par retour 
+ d’email et supprimer définitivement le message de vos répertoires. Tou
+ te utilisation de ce message non conforme à sa destination\, toute diffus
+ ion ou toute publication\, totale ou partielle\, est interdite\, sauf auto
+ risation expresse. L'internet ne permettant pas d'assurer l'intégrité de
+  ce message\, l’Entreprise décline toute responsabilité au titre de ce
+  message\, dans l'hypothèse où il aurait été modifié.\n\n\nThis messa
+ ge including any attachments is confidential and intended solely for the a
+ ddressees. Unless explicitly mentioned\, its content reflects only the per
+ sonal thoughts of the author\, and therefore cannot represent the official
+  view of the Company. If received by error\, please inform immediately the
+  sender by return e-mail and delete definitely the message from any and al
+ l directories. Any use\, dissemination or disclosure not in conformity wit
+ h the intended purposes is strictly prohibited. The integrity of messages 
+ via Internet cannot be guaranteed and the Company accepts no liability for
+  any changes which may occur.\n\n________________________________\n\nSi vo
+ us recevez ce message pendant votre temps de repos\, vous n’êtes pas te
+ nu d’y répondre.\n
+UID:040000008200E00074C5B7101A82E00800000000E58F9FD5A32EDB01000000000000000
+ 0100000007569B349AF3C2440B0A7D8B7F1B6A4A8
+SUMMARY:RE: Candidature  - Chargé(e) de Projets RSE en stage (H/F 
+DTSTART;TZID=Romance Standard Time:20241105T103000
+DTEND;TZID=Romance Standard Time:20241105T105500
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Réunion Microsoft Teams
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[http://hec-fr.zoom.us/w_p/Q8684bEWQQuQ9QIdVWmayw/35aa3f78-afa7
+ -4f36-b4e6-ff10359c3e76.png]\n[http://hec-fr.zoom.us/w_p/Q8684bEWQQuQ9QIdV
+ Wmayw/b57235c5-9d8e-4678-b4d7-7c89aa110980.png]\nHi Arthur Louart\,\nThank
+  you for registering for PATH WISHES PROCESS. You can find information abo
+ ut this webinar below.\nPATH WISHES PROCESS\nDate & Time     Nov 5\, 2024 
+ 19:30 Amsterdam\, Berlin\, Rome\, Stockholm\, Vienna\nWebinar ID      948 
+ 6605 8410\nPasscode        748889\nAdd to: [https://st3.zoom.us/static/6.3
+ .27412/image/new/google.png]   Google Calendar <https://eur02.safelinks.pr
+ otection.outlook.com/?url=https%3A%2F%2Fhec-fr.zoom.us%2Fwebinar%2FtJAlce-
+ oqzMuG9SgyyMOSEprqqDof1qATz0q%2Fcalendar%2Fgoogle%2Fadd%3Fuser_id%3D56xrhe
+ bsMNTtiYFrzjIy9nEng3hwLfWZBboL7nNHt6xEgO6a4f0.fCp8CP6i5F77leVh%26type%3Dgo
+ ogle&data=05%7C02%7Carthur.louart%40hec.edu%7C8445f1237d054065701c08dcfdc8
+ 3f97%7C69d4d246fd23401b9745ff5ecb5a765d%7C1%7C0%7C638664283712218665%7CUnk
+ nown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJ
+ XVCI6Mn0%3D%7C0%7C%7C%7C&sdata=yLKzluCeu9%2B1tIyoCN9iP1AGCSvTBLD7ZZwv8vQeo
+ c0%3D&reserved=0>   [https://st3.zoom.us/static/6.3.27412/image/new/outloo
+ k.png]   Outlook Calendar(.ICS) <https://eur02.safelinks.protection.outloo
+ k.com/?url=https%3A%2F%2Fhec-fr.zoom.us%2Fwebinar%2FtJAlce-oqzMuG9SgyyMOSE
+ prqqDof1qATz0q%2Fics%3Fuser_id%3DiSQymVAOcPi2b_gqoszaM2tkO5wzF7IPKqr7pQO0z
+ 1p8BTlcPYc.jojIUidhC6qox8u0%26type%3Dicalendar&data=05%7C02%7Carthur.louar
+ t%40hec.edu%7C8445f1237d054065701c08dcfdc83f97%7C69d4d246fd23401b9745ff5ec
+ b5a765d%7C1%7C0%7C638664283712250308%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wL
+ jAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=w
+ DgfYSAirjQ1pnlkn5%2BgWw%2F%2Bti8GT7ZjBmVL%2FFXH%2Bo4%3D&reserved=0>   [htt
+ ps://st3.zoom.us/static/6.3.27412/image/new/yahoo.png]   Yahoo Calendar <h
+ ttps://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhec-fr.zo
+ om.us%2Fwebinar%2FtJAlce-oqzMuG9SgyyMOSEprqqDof1qATz0q%2Fics%3Fuser_id%3DS
+ 9P_p6tXVTJQjdmgitTr83rB4DAU4xIrUuI4pAxG0zWK1hIyEbI.Rj4hEwW393CHdn9O%26type
+ %3Dyahoo&data=05%7C02%7Carthur.louart%40hec.edu%7C8445f1237d054065701c08dc
+ fdc83f97%7C69d4d246fd23401b9745ff5ecb5a765d%7C1%7C0%7C638664283712269341%7
+ CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWw
+ iLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=P88Mqy2887uMnd%2BokuzXVSocQXjTFrYLomf5J
+ Oeejq0%3D&reserved=0>\nTo edit or cancel your registration details\, click
+  here<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhe
+ c-fr.zoom.us%2Fwebinar%2Fregister%2FWN_JCHsLryiRNaUPd4HusFZJw%3Ftk%3D5azaZ
+ i-gifBioG10O1HDYpuTsMebd-bUG8xea2NNjuU.AG.zkpANYwG8YeWGE1naeJtXvotYcw54tJT
+ BJ0Ts6d_GeWumkWPPfsEohdy3t4ZdVmFKNl88OLmiRQ1fwI7OI1PBcVFE8hh5BUacYkSYaJVoi
+ zgb6M.d2oSyf8lMIDBoxcZOuB0Xw.lNUkN4aeUcTafdkO%23detail&data=05%7C02%7Carth
+ ur.louart%40hec.edu%7C8445f1237d054065701c08dcfdc83f97%7C69d4d246fd23401b9
+ 745ff5ecb5a765d%7C1%7C0%7C638664283712286863%7CUnknown%7CTWFpbGZsb3d8eyJWI
+ joiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C
+ &sdata=CkcmZCvLDL9SdVrIXrGSFg8U%2Bxoy%2BVuq1YbYLNrSsV8%3D&reserved=0>. You
+  can cancel your registration before Nov 5\, 2024 19:30.\nPlease submit an
+ y questions to: webinar-HEC@hec.fr\nThank you!\nWAYS TO JOIN THIS WEBINAR\
+ n\n  *   Join from PC\, Mac\, iPad\, or Android\n\n    Join Webinar    <ht
+ tps://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhec-fr.zoo
+ m.us%2Fw%2F94866058410%3Ftk%3D5azaZi-gifBioG10O1HDYpuTsMebd-bUG8xea2NNjuU.
+ DQcAAAAWFnUsqhZMVTdXSW94Q1EyZTlKQkZoUE9sMVl3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+ AAAAAAAAA%26pwd%3DZ4Xrnptbt53aaRVRMdKaGZXFwljp4p.1%26uuid%3DWN_JCHsLryiRNa
+ UPd4HusFZJw&data=05%7C02%7Carthur.louart%40hec.edu%7C8445f1237d054065701c0
+ 8dcfdc83f97%7C69d4d246fd23401b9745ff5ecb5a765d%7C1%7C0%7C63866428371230465
+ 3%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1h
+ aWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=tKoMy%2B8BkRI365F0dBOvDeO8iplE4Rv6oS
+ aMsXY3pSU%3D&reserved=0>\nIf the button above does not work\, paste this i
+ nto your browser:\nhttps://hec-fr.zoom.us/w/94866058410?tk=5azaZi-gifBioG1
+ 0O1HDYpuTsMebd-bUG8xea2NNjuU.DQcAAAAWFnUsqhZMVTdXSW94Q1EyZTlKQkZoUE9sMVl3A
+ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=Z4Xrnptbt53aaRVRMdKaGZXFwljp4p.
+ 1&uuid=WN_JCHsLryiRNaUPd4HusFZJw<https://eur02.safelinks.protection.outloo
+ k.com/?url=https%3A%2F%2Fhec-fr.zoom.us%2Fw%2F94866058410%3Ftk%3D5azaZi-gi
+ fBioG10O1HDYpuTsMebd-bUG8xea2NNjuU.DQcAAAAWFnUsqhZMVTdXSW94Q1EyZTlKQkZoUE9
+ sMVl3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA%26pwd%3DZ4Xrnptbt53aaRVRMdKaG
+ ZXFwljp4p.1%26uuid%3DWN_JCHsLryiRNaUPd4HusFZJw&data=05%7C02%7Carthur.louar
+ t%40hec.edu%7C8445f1237d054065701c08dcfdc83f97%7C69d4d246fd23401b9745ff5ec
+ b5a765d%7C1%7C0%7C638664283712322194%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wL
+ jAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=L
+ dSDrNSTG8vKHmQnJ%2Bx6kwXoPEnJwUs7Cw9LpU7l2%2Bk%3D&reserved=0>\nTo keep thi
+ s webinar secure\, do not share this link publicly.\n\n  *   Join by SIP\n
+ \n94866058410@zoomcrc.com<_blank>\nOr\, join by H.323\nH.323:  162.255.37.
+ 11 (US West)\n162.255.36.11 (US East)\n115.114.131.7 (India Mumbai)\n115.1
+ 14.115.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Netherlands)\n213.24
+ 4.140.110 (Germany)\n103.122.166.55 (Australia Sydney)\n103.122.167.55 (Au
+ stralia Melbourne)\n209.9.211.110 (Hong Kong SAR)\n64.211.144.160 (Brazil)
+ \n159.124.168.213 (Canada Toronto)\n65.39.152.160 (Canada Vancouver)\n207.
+ 226.132.110 (Japan Tokyo)\n149.137.24.110 (Japan Osaka)\nWebinar ID:     9
+ 48 6605 8410\nPasscode:       748889\n[https://st3.zoom.us/static/6.3.2741
+ 2/image/new/twitter.png] <https://eur02.safelinks.protection.outlook.com/?
+ url=https%3A%2F%2Ftwitter.com%2Fzoom&data=05%7C02%7Carthur.louart%40hec.ed
+ u%7C8445f1237d054065701c08dcfdc83f97%7C69d4d246fd23401b9745ff5ecb5a765d%7C
+ 1%7C0%7C638664283712341613%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJ
+ QIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=3OrM%2BVyCm
+ NWsZ7PZiiv8olD11BN7PeA4xtmgX%2FzX41Y%3D&reserved=0>       [https://st3.zoo
+ m.us/static/6.3.27412/image/new/linkedin.png]  <https://eur02.safelinks.pr
+ otection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fzoom-
+ video-communications%2F&data=05%7C02%7Carthur.louart%40hec.edu%7C8445f1237
+ d054065701c08dcfdc83f97%7C69d4d246fd23401b9745ff5ecb5a765d%7C1%7C0%7C63866
+ 4283712358162%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIi
+ LCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=%2FwySecoWBFnMRCm4oNgEmO
+ kL8sOn3lprYOWWMl9lkDQ%3D&reserved=0>        [https://st3.zoom.us/static/6.
+ 3.27412/image/new/zoomblog.png]  <https://eur02.safelinks.protection.outlo
+ ok.com/?url=https%3A%2F%2Fblog.zoom.us%2F&data=05%7C02%7Carthur.louart%40h
+ ec.edu%7C8445f1237d054065701c08dcfdc83f97%7C69d4d246fd23401b9745ff5ecb5a76
+ 5d%7C1%7C0%7C638664283712375274%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMD
+ AiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=ghxVBm
+ T5T6fQXKF7UqzgxTcRCd0fakYr7Rf%2Bc%2BzCHfo%3D&reserved=0>\n+1.888.799.9666<
+ tel:1-888-799-9666>\n\nCopyright ©2024 Zoom Video Communications\, Inc.\n
+ \nVisit Zoom.us<https://eur02.safelinks.protection.outlook.com/?url=http%3
+ A%2F%2Fzoom.us%2F&data=05%7C02%7Carthur.louart%40hec.edu%7C8445f1237d05406
+ 5701c08dcfdc83f97%7C69d4d246fd23401b9745ff5ecb5a765d%7C1%7C0%7C63866428371
+ 2395913%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTi
+ I6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=r9hl8DJodPEbbQomcdgojPeKz5WSlo
+ v4n1ReteySntg%3D&reserved=0>\n55 Almaden Blvd\nSan Jose\, CA 95113<https:/
+ /eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.google.com%
+ 2Fmaps%2Fplace%2F55%2BAlmaden%2BBlvd%2C%2BSan%2BJose%2C%2BCA%2B95113%2F%40
+ 37.3328541%2C-121.897097%2C17z%2Fdata%3D!3m1!4b1!4m5!3m4!1s0x808fcca40adf3
+ cb7%3A0x5a2d33d3593e0a33!8m2!3d37.3328541!4d-121.8949083&data=05%7C02%7Car
+ thur.louart%40hec.edu%7C8445f1237d054065701c08dcfdc83f97%7C69d4d246fd23401
+ b9745ff5ecb5a765d%7C1%7C0%7C638664283712413401%7CUnknown%7CTWFpbGZsb3d8eyJ
+ WIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%
+ 7C&sdata=Dai3NjbFZJGc4OPfno8uvxmR3kroa6wEExned%2BE3lfw%3D&reserved=0>\n[ht
+ tps://st3.zoom.us/static/6.3.27412/image/new/ZoomLogo4.png] <https://eur02
+ .safelinks.protection.outlook.com/?url=https%3A%2F%2Fzoom.us%2F&data=05%7C
+ 02%7Carthur.louart%40hec.edu%7C8445f1237d054065701c08dcfdc83f97%7C69d4d246
+ fd23401b9745ff5ecb5a765d%7C1%7C0%7C638664283712436800%7CUnknown%7CTWFpbGZs
+ b3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0
+ %7C%7C%7C&sdata=i%2F4X7qxhd769xygZki9UeHg9lIuFqj0oB4L%2FlrmqylE%3D&reserve
+ d=0>\n
+UID:b97kuj9p6gs3cdhg6ks38c9g9hajelq9dts46k9ickskkgi6d184ur1hb5rg
+SUMMARY:PATH WISHES PROCESS
+DTSTART;TZID=Romance Standard Time:20241105T193000
+DTEND;TZID=Romance Standard Time:20241105T203000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:https://hec-fr.zoom.us/w/94866058410?tk=5azaZi-gifBioG10O1HDYpuTsM
+ ebd-bUG8xea2NNjuU.DQcAAAAWFnUsqhZMVTdXSW94Q1EyZTlKQkZoUE9sMVl3AAAAAAAAAAAA
+ AAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=Z4Xrnptbt53aaRVRMdKaGZXFwljp4p.1&uuid=WN_J
+ CHsLryiRNaUPd4HusFZJw
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:You don't often get email from aissata.kante@fnacdarty.com. Lea
+ rn why this is important<https://aka.ms/LearnAboutSenderIdentification>\nB
+ onjour Arthur\,\n\nComme évoqué ce jour\, nous vous invitons à un entre
+ tien pour le poste de stage dans notre équipe.\n\nBonne journée et à di
+ sposition si besoin\,\n\nAissata\n________________________________________
+ ________________________________________\nMicrosoft Teams Besoin d'aide ?<
+ https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2
+ FJoinTeamsMeeting%3Fomkt%3Dfr-FR&data=05%7C02%7Carthur.louart%40hec.edu%7C
+ 35571ce825d74918ed1d08dcfd8660a4%7C69d4d246fd23401b9745ff5ecb5a765d%7C1%7C
+ 0%7C638664000915708381%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjo
+ iV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=sFaETlcIS8sZw1F
+ FTLi6VsocGVK0eFfxLFXXF%2BtHLy8%3D&reserved=0>\nRejoignez la réunion maint
+ enant<https://eur02.safelinks.protection.outlook.com/ap/t-59584e83/?url=ht
+ tps%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_Y2I5ODY
+ 2M2MtMzZjNS00YzZkLTllNWUtYmZhMGZiODMyY2I4%2540thread.v2%2F0%3Fcontext%3D%2
+ 57b%2522Tid%2522%253a%2522ee736e01-987f-46aa-a144-79812f19df56%2522%252c%2
+ 522Oid%2522%253a%2522bf3a54f6-1cdc-496d-9cf0-0d97db6dd4ae%2522%257d&data=0
+ 5%7C02%7Carthur.louart%40hec.edu%7C35571ce825d74918ed1d08dcfd8660a4%7C69d4
+ d246fd23401b9745ff5ecb5a765d%7C1%7C0%7C638664000915744679%7CUnknown%7CTWFp
+ bGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D
+ %7C0%7C%7C%7C&sdata=7XRfkd0NthUbAJEpsCkPSq6QpJJEHvFhazycf%2BgOzKI%3D&reser
+ ved=0>\nID de réunion : 353 657 421 314\nCode secret : Nx5fe5\n__________
+ ______________________\nPour les organisateurs : Options de réunion<https
+ ://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microso
+ ft.com%2FmeetingOptions%2F%3ForganizerId%3Dbf3a54f6-1cdc-496d-9cf0-0d97db6
+ dd4ae%26tenantId%3Dee736e01-987f-46aa-a144-79812f19df56%26threadId%3D19_me
+ eting_Y2I5ODY2M2MtMzZjNS00YzZkLTllNWUtYmZhMGZiODMyY2I4%40thread.v2%26messa
+ geId%3D0%26language%3Dfr-FR&data=05%7C02%7Carthur.louart%40hec.edu%7C35571
+ ce825d74918ed1d08dcfd8660a4%7C69d4d246fd23401b9745ff5ecb5a765d%7C1%7C0%7C6
+ 38664000915772607%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2lu
+ MzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=M8CeFxtihlJv6h5QfkoK
+ yX8AJcoGbazzcOWWEOMDXvs%3D&reserved=0>\n__________________________________
+ ______________________________________________\n\n\n______________________
+ __________\n\n\nCe message et toutes les pièces jointes qu’il contient 
+ sont uniquement destinés aux personnes auxquelles ils sont adressés et s
+ ont strictement confidentiels. A moins qu'il en ait été explicitement co
+ nvenu autrement\, son contenu ne reflète que la pensée personnelle de so
+ n auteur et ne saurait donc représenter la vision officielle de l'Entrepr
+ ise. Si vous avez reçu ce message par erreur\, nous vous remercions de bi
+ en vouloir en informer l'expéditeur immédiatement par retour d’email e
+ t supprimer définitivement le message de vos répertoires. Toute utilisat
+ ion de ce message non conforme à sa destination\, toute diffusion ou tout
+ e publication\, totale ou partielle\, est interdite\, sauf autorisation ex
+ presse. L'internet ne permettant pas d'assurer l'intégrité de ce message
+ \, l’Entreprise décline toute responsabilité au titre de ce message\, 
+ dans l'hypothèse où il aurait été modifié.\n\n\nThis message includin
+ g any attachments is confidential and intended solely for the addressees. 
+ Unless explicitly mentioned\, its content reflects only the personal thoug
+ hts of the author\, and therefore cannot represent the official view of th
+ e Company. If received by error\, please inform immediately the sender by 
+ return e-mail and delete definitely the message from any and all directori
+ es. Any use\, dissemination or disclosure not in conformity with the inten
+ ded purposes is strictly prohibited. The integrity of messages via Interne
+ t cannot be guaranteed and the Company accepts no liability for any change
+ s which may occur.\n\n________________________________\n\nSi vous recevez 
+ ce message pendant votre temps de repos\, vous n’êtes pas tenu d’y r
+ épondre.\n
+UID:040000008200E00074C5B7101A82E008000000004049F4E5762FDB01000000000000000
+ 010000000557A1EFA0893B0408542ECD9CF6C90DE
+SUMMARY:Entretien Stage Fnac Darty Arthur LOUART
+DTSTART;TZID=Romance Standard Time:20241106T160000
+DTEND;TZID=Romance Standard Time:20241106T165000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Réunion Microsoft Teams\; Flavia - 5.07 C Projet 12P - Ecran
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E008000000003D5850B230D4DA01000000000000000
+ 010000000F8A466AC049EA743B3750447B63527BD
+SUMMARY:Les Galluisiens à Stuttgart
+DTSTART;VALUE=DATE:20241109
+DTEND;VALUE=DATE:20241112
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pour plus de détails\, consultez https://www.linkedin.com/even
+ ts/regennight-retransmissionendire7251514010653573120/ AU PROGRAMME 🥾 S
+ ur le chemin du régénératif : témoignages inspirants de 6 alumni de la
+  CEC sur la m… Acceptance of this invitation does not constitute consent
+  to any form of recording of the meeting (e.g. video recording\, transcrip
+ tions or any other means) by EY or its employees\, partners or associated 
+ persons. Recording conversations without explicit consent may be unlawful 
+ in certain jurisdictions.\n\n\nYou will find the business letter informati
+ on for the entity you received this e-mail from on the following site: htt
+ ps://www.ey.com/de_de/legal-and-privacy/geschaeftsbrief-angaben\n\nThis e-
+ mail communication (and any attachment/s) is confidential and intended onl
+ y for the individual(s) or entity named above and to others who have been 
+ specifically authorized to receive it. If you are not the intended recipie
+ nt\, please do not read\, copy\, use or disclose the contents of this comm
+ unication to others. Please notify the sender that you have received this 
+ e-mail in error\, by calling the phone number indicated or by e-mail\, and
+  delete the e-mail (including any attachment/s) subsequently. This informa
+ tion may be subject to professional secrecy (e. g. of auditor\, tax or leg
+ al advisor)\, other privilege or otherwise be protected by work product im
+ munity or other legal rules. Thank you.\n\nData privacy notice: EY protect
+ s your personal data. Please find more information about how we process yo
+ ur personal data in our privacy notice: www.de.ey.com/datenschutz-EYGmbH. 
+ Furthermore the Ernst & Young Member Firms share an international system f
+ or the maintenance and administration of your personal contact details in 
+ order to be able to send you up-to-date information and invitations tailor
+ ed to you and your needs. If you do not wish to make use of this service o
+ ffered by Ernst & Young\, please send a mail to EY.CRM@EY.COM\n
+UID:040000008200E00074C5B7101A82E00800000000F0D6E28F9220DB01000000000000000
+ 01000000033501BB85A7DB942BFDA0CC60217AF73
+SUMMARY:REGEN NIGHT ! Retransmission en direct du RV annuel de l’écosyst
+ ème CEC
+DTSTART;TZID=Europe/Paris:20241112T183000
+DTEND;TZID=Europe/Paris:20241112T203000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:https://www.linkedin.com/events/regennight-retransmissionendire725
+ 1514010653573120/
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sophie MEBO vous invite à une réunion Zoom planifiée.\n\nPar
+ ticiper à la réunion Zoom\nhttps://hec-fr.zoom.us/w/91253571237?tk=nCLt8
+ r-mLgwFuP4-KsNT-BXYqyReff5WdYP5pDHkzUg.DQcAAAAVPyL-pRZVSFI1UEE3X1J2cXhXX0l
+ hdHpnSXlRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\n\nID de réunion : 912 5
+ 357 1237\n\nParticiper à l’aide d’un protocole SIP\n91253571237@zoomc
+ rc.com\n\nParticiper à l’aide d’un protocole H.323\n162.255.37.11 (É
+ tats-Unis (Ouest))\n162.255.36.11 (États-Unis (Est))\n115.114.131.7 (Mumb
+ ai - Inde)\n115.114.115.7 (Hyderabad - Inde)\n213.19.144.110 (Amsterdam Pa
+ ys-Bas)\n213.244.140.110 (Allemagne)\n103.122.166.55 (Australie Sydney)\n1
+ 03.122.167.55 (Australie Melbourne)\n209.9.211.110 (RAS de Hong Kong)\n64.
+ 211.144.160 (Brésil)\n159.124.168.213 (Canada Toronto)\n65.39.152.160 (Ca
+ nada Vancouver)\n207.226.132.110 (Japon Tokyo)\n149.137.24.110 (Japon Osak
+ a)\nID de réunion : 912 5357 1237\n
+UID:20241113T070128Z-91253571237@fe80:0:0:0:ccfd:baff:fe6a:9296eth0
+SUMMARY:SASI Presentation for Grande Ecole Students
+DTSTART;TZID=Romance Standard Time:20241120T180000
+DTEND;TZID=Romance Standard Time:20241120T190000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:https://hec-fr.zoom.us/w/91253571237?tk=nCLt8r-mLgwFuP4-KsNT-BXYqy
+ Reff5WdYP5pDHkzUg.DQcAAAAVPyL-pRZVSFI1UEE3X1J2cXhXX0lhdHpnSXlRAAAAAAAAAAAA
+ AAAAAAAAAAAAAAAAAAAAAAAAAAA
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000C2ED6978B439DB01000000000000000
+ 010000000939EB129D9E8DB42999833D00A8D7210
+SUMMARY:EY Interns' dinner
+DTSTART;TZID=Europe/Paris:20241120T183000
+DTEND;TZID=Europe/Paris:20241120T220000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kourtney ARLHAC vous invite à une réunion Zoom planifiée.\n\
+ nParticiper à la réunion Zoom\nhttps://hec-fr.zoom.us/w/97695262592?tk=A
+ y8ydSGFrjBnlNs3GQkqYA-a4XqcoZcPp8ykQFFh2tY.DQcAAAAWvxdngBZHTHJDeFV3cFRLU1F
+ OdW9pbjQxck93AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\n\nID de réunion : 9
+ 76 9526 2592\n\nParticiper à l’aide d’un protocole SIP\n97695262592@z
+ oomcrc.com\n\nParticiper à l’aide d’un protocole H.323\n162.255.37.11
+  (États-Unis (Ouest))\n162.255.36.11 (États-Unis (Est))\n115.114.131.7 (
+ Mumbai - Inde)\n115.114.115.7 (Hyderabad - Inde)\n213.19.144.110 (Amsterda
+ m Pays-Bas)\n213.244.140.110 (Allemagne)\n103.122.166.55 (Australie Sydney
+ )\n103.122.167.55 (Australie Melbourne)\n209.9.211.110 (RAS de Hong Kong)\
+ n64.211.144.160 (Brésil)\n159.124.168.213 (Canada Toronto)\n65.39.152.160
+  (Canada Vancouver)\n207.226.132.110 (Japon Tokyo)\n149.137.24.110 (Japon 
+ Osaka)\nID de réunion : 976 9526 2592\n
+UID:20241113T070041Z-97695262592@fe80:0:0:0:6ca5:fcff:fe08:6de2eth0
+SUMMARY:Presentation major Entrepreneurs
+DTSTART;TZID=Romance Standard Time:20241120T190000
+DTEND;TZID=Romance Standard Time:20241120T200000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:https://hec-fr.zoom.us/w/97695262592?tk=Ay8ydSGFrjBnlNs3GQkqYA-a4X
+ qcoZcPp8ykQFFh2tY.DQcAAAAWvxdngBZHTHJDeFV3cFRLU1FOdW9pbjQxck93AAAAAAAAAAAA
+ AAAAAAAAAAAAAAAAAAAAAAAAAAA
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fabrice Graff vous invite à une réunion Zoom planifiée.\n\nP
+ articiper à la réunion Zoom\nhttps://hec-fr.zoom.us/w/95701881651?tk=FVa
+ DznV1d1tO97ycLmy79Jd--lHsoFbzfIU5vQywzGE.DQcAAAAWSEbTMxZFbTBQcTFMNlQ3NmxFX
+ 2dCRm5ydUd3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\n\nID de réunion : 957
+  0188 1651\n\nParticiper à l’aide d’un protocole SIP\n95701881651@zoo
+ mcrc.com\n\nParticiper à l’aide d’un protocole H.323\n162.255.37.11 (
+ États-Unis (Ouest))\n162.255.36.11 (États-Unis (Est))\n221.122.88.195 (C
+ hine)\n115.114.131.7 (Mumbai - Inde)\n115.114.115.7 (Hyderabad - Inde)\n21
+ 3.19.144.110 (Amsterdam Pays-Bas)\n213.244.140.110 (Allemagne)\n103.122.16
+ 6.55 (Australie Sydney)\n103.122.167.55 (Australie Melbourne)\n209.9.211.1
+ 10 (RAS de Hong Kong)\n149.137.40.110 (Singapour)\n64.211.144.160 (Brésil
+ )\n159.124.132.243 (Mexique)\n159.124.168.213 (Canada Toronto)\n65.39.152.
+ 160 (Canada Vancouver)\n207.226.132.110 (Japon Tokyo)\n149.137.24.110 (Jap
+ on Osaka)\nID de réunion : 957 0188 1651\n
+UID:20241113T070115Z-95701881651@fe80:0:0:0:cbe:4bff:fed7:61a4eth0
+SUMMARY:Webinar - DIA presentation - Class of 2026
+DTSTART;TZID=Romance Standard Time:20241122T180000
+DTEND;TZID=Romance Standard Time:20241122T193000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:https://hec-fr.zoom.us/w/95701881651?tk=FVaDznV1d1tO97ycLmy79Jd--l
+ HsoFbzfIU5vQywzGE.DQcAAAAWSEbTMxZFbTBQcTFMNlQ3NmxFX2dCRm5ydUd3AAAAAAAAAAAA
+ AAAAAAAAAAAAAAAAAAAAAAAAAAA
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:John MAWDSLEY vous invite à une réunion Zoom planifiée.\n\nP
+ articiper à la réunion Zoom\nhttps://hec-fr.zoom.us/w/98159281393?tk=6SA
+ hi6C-L4Hjls4AE1rXj6VL4wkUVHybQ-peKfuXRlY.DQcAAAAW2r_E8RZTRTgwYm53RlNGR2N3M
+ Hk0MTEwZHlBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\n\nID de réunion : 981
+  5928 1393\n\nParticiper à l’aide d’un protocole SIP\n98159281393@zoo
+ mcrc.com\n\nParticiper à l’aide d’un protocole H.323\n162.255.37.11 (
+ États-Unis (Ouest))\n162.255.36.11 (États-Unis (Est))\n115.114.131.7 (Mu
+ mbai - Inde)\n115.114.115.7 (Hyderabad - Inde)\n213.19.144.110 (Amsterdam 
+ Pays-Bas)\n213.244.140.110 (Allemagne)\n103.122.166.55 (Australie Sydney)\
+ n103.122.167.55 (Australie Melbourne)\n209.9.211.110 (RAS de Hong Kong)\n6
+ 4.211.144.160 (Brésil)\n159.124.168.213 (Canada Toronto)\n65.39.152.160 (
+ Canada Vancouver)\n207.226.132.110 (Japon Tokyo)\n149.137.24.110 (Japon Os
+ aka)\nID de réunion : 981 5928 1393\n
+UID:20241113T070059Z-98159281393@fe80:0:0:0:6063:95ff:fece:2468eth0
+SUMMARY:Strategic Management Major Presentation
+DTSTART;TZID=Romance Standard Time:20241125T180000
+DTEND;TZID=Romance Standard Time:20241125T193000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:https://hec-fr.zoom.us/w/98159281393?tk=6SAhi6C-L4Hjls4AE1rXj6VL4w
+ kUVHybQ-peKfuXRlY.DQcAAAAW2r_E8RZTRTgwYm53RlNGR2N3MHk0MTEwZHlBAAAAAAAAAAAA
+ AAAAAAAAAAAAAAAAAAAAAAAAAAA
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000C27402F7003DDB01000000000000000
+ 0100000008F25C2124A3EC046984080E000F3DF2C
+SUMMARY:Vente canapé 
+DTSTART;TZID=Europe/Paris:20241126T180000
+DTEND;TZID=Europe/Paris:20241126T183000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000303C89AC563BDB01000000000000000
+ 0100000004329EFD265C94F4BB230D5808DD69644
+SUMMARY:No more excuses. Become a changemaker. Your time has come. 
+DTSTART;TZID=Europe/Paris:20241127T120000
+DTEND;TZID=Europe/Paris:20241127T130000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:null
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E0080000000042E96BE9AA3ADB01000000000000000
+ 0100000003AF86CF8711982489B80FFF15C4D10F6
+SUMMARY:Shift project - presentation rapport Agriculture (Zoom)
+DTSTART;TZID=Europe/Paris:20241128T183000
+DTEND;TZID=Europe/Paris:20241128T203000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000BBE2BCF19241DB01000000000000000
+ 010000000BB4D35F7775B6649952E4CAFDE151262
+SUMMARY:État des lieux Whatsapp 
+DTSTART;TZID=Europe/Paris:20241129T173000
+DTEND;TZID=Europe/Paris:20241129T180000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Arthur / Justine\nParticiper avec Google Meet - Vous avez été
+  invité par Justine GOMEZ à participer à un événement appelé Arthur 
+ / Justine le jeudi 5 déc. 2024 ⋅ 14:00 – 14:45 (Heure d’Europe cent
+ rale - Paris).\n\n<https://eur02.safelinks.protection.outlook.com/?url=htt
+ ps%3A%2F%2Fmeet.google.com%2Fwow-hafm-itf%3Fhs%3D224&data=05%7C02%7Carthur
+ .louart%40hec.edu%7Cf9dcc4cfdee34d1cf33f08dd0dfbe8d2%7C69d4d246fd23401b974
+ 5ff5ecb5a765d%7C1%7C0%7C638682097779473226%7CUnknown%7CTWFpbGZsb3d8eyJFbXB
+ 0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUI
+ joyfQ%3D%3D%7C0%7C%7C%7C&sdata=fWmxA6%2B26Zq2m4WetGGw9VEiZaMMnvqrLI4WQCp3N
+ ak%3D&reserved=0>\nParticiper avec Google Meet\nLien de la réunion\nmeet.
+ google.com/wow-hafm-itf<https://eur02.safelinks.protection.outlook.com/?ur
+ l=https%3A%2F%2Fmeet.google.com%2Fwow-hafm-itf%3Fhs%3D224&data=05%7C02%7Ca
+ rthur.louart%40hec.edu%7Cf9dcc4cfdee34d1cf33f08dd0dfbe8d2%7C69d4d246fd2340
+ 1b9745ff5ecb5a765d%7C1%7C0%7C638682097779513991%7CUnknown%7CTWFpbGZsb3d8ey
+ JFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIs
+ IldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=9OBmi2XmAqrhpagqx1Q%2BSFWtz2oQAWtv6%2B
+ 1m0jP5xDo%3D&reserved=0>\nParticiper par téléphone\n(FR) +33 1 87 40 15 
+ 26<tel:+33-1-87-40-15-26%3B797395802%23>\nCODE SECRET: 797395802\n\nPlus d
+ e numéros de téléphone<https://eur02.safelinks.protection.outlook.com/?
+ url=https%3A%2F%2Ftel.meet%2Fwow-hafm-itf%3Fpin%3D4793083076786%26hs%3D0&d
+ ata=05%7C02%7Carthur.louart%40hec.edu%7Cf9dcc4cfdee34d1cf33f08dd0dfbe8d2%7
+ C69d4d246fd23401b9745ff5ecb5a765d%7C1%7C0%7C638682097779528029%7CUnknown%7
+ CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsI
+ kFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=GBVwTxYDMZYzvVIXfBEMo2a
+ FemF2ZwATIxaPB9BcRSQ%3D&reserved=0>\nDate\njeudi 5 déc. 2024 ⋅ 14:00 
+ – 14:45 (Heure d’Europe centrale - Paris)\nInvités\nJustine GOMEZ<mai
+ lto:justine_gomez@ext.carrefour.com>- organisateur\narthur.louart@hec.edu<
+ mailto:arthur.louart@hec.edu>\nAfficher les informations sur tous les invi
+ tés<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcal
+ endar.google.com%2Fcalendar%2Fevent%3Faction%3DVIEW%26eid%3DNTIycDQ2ZGJqND
+ gwZzBsajBxY252YW1hN2ogYXJ0aHVyLmxvdWFydEBoZWMuZWR1%26tok%3DMzEjanVzdGluZV9
+ nb21lekBleHQuY2FycmVmb3VyLmNvbWUzMWVmY2QzYWJlMDhhNThkYmNkNTBiY2Y4MjgxYTNmN
+ jQ0MjRjM2Y%26ctz%3DEurope%252FParis%26hl%3Dfr%26es%3D0&data=05%7C02%7Carth
+ ur.louart%40hec.edu%7Cf9dcc4cfdee34d1cf33f08dd0dfbe8d2%7C69d4d246fd23401b9
+ 745ff5ecb5a765d%7C1%7C0%7C638682097779541381%7CUnknown%7CTWFpbGZsb3d8eyJFb
+ XB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIld
+ UIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=BFGlT7HyVZbM72FW0ZlhgUOpia9mfqTsUIHxW3arI
+ 58%3D&reserved=0>\nRépondre pour arthur.louart@hec.edu<mailto:arthur.loua
+ rt@hec.edu>\n<https://eur02.safelinks.protection.outlook.com/?url=https%3A
+ %2F%2Fcalendar.google.com%2Fcalendar%2Fevent%3Faction%3DRESPOND%26eid%3DNT
+ IycDQ2ZGJqNDgwZzBsajBxY252YW1hN2ogYXJ0aHVyLmxvdWFydEBoZWMuZWR1%26rst%3D1%2
+ 6tok%3DMzEjanVzdGluZV9nb21lekBleHQuY2FycmVmb3VyLmNvbWUzMWVmY2QzYWJlMDhhNTh
+ kYmNkNTBiY2Y4MjgxYTNmNjQ0MjRjM2Y%26ctz%3DEurope%252FParis%26hl%3Dfr%26es%3
+ D0&data=05%7C02%7Carthur.louart%40hec.edu%7Cf9dcc4cfdee34d1cf33f08dd0dfbe8
+ d2%7C69d4d246fd23401b9745ff5ecb5a765d%7C1%7C0%7C638682097779555058%7CUnkno
+ wn%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zM
+ iIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=N2UQV4ZSYegynHWE79l
+ ariTYcjfB%2BUuT%2FHNpSPeGyB8%3D&reserved=0>\nOui\n<https://eur02.safelinks
+ .protection.outlook.com/?url=https%3A%2F%2Fcalendar.google.com%2Fcalendar%
+ 2Fevent%3Faction%3DRESPOND%26eid%3DNTIycDQ2ZGJqNDgwZzBsajBxY252YW1hN2ogYXJ
+ 0aHVyLmxvdWFydEBoZWMuZWR1%26rst%3D2%26tok%3DMzEjanVzdGluZV9nb21lekBleHQuY2
+ FycmVmb3VyLmNvbWUzMWVmY2QzYWJlMDhhNThkYmNkNTBiY2Y4MjgxYTNmNjQ0MjRjM2Y%26ct
+ z%3DEurope%252FParis%26hl%3Dfr%26es%3D0&data=05%7C02%7Carthur.louart%40hec
+ .edu%7Cf9dcc4cfdee34d1cf33f08dd0dfbe8d2%7C69d4d246fd23401b9745ff5ecb5a765d
+ %7C1%7C0%7C638682097779586361%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRy
+ dWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7
+ C0%7C%7C%7C&sdata=24Q4tOIuAS95gkLc29iAJJu9LKONvTNvXIyD6l8D3pg%3D&reserved=
+ 0>\nNon\n<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%
+ 2Fcalendar.google.com%2Fcalendar%2Fevent%3Faction%3DRESPOND%26eid%3DNTIycD
+ Q2ZGJqNDgwZzBsajBxY252YW1hN2ogYXJ0aHVyLmxvdWFydEBoZWMuZWR1%26rst%3D3%26tok
+ %3DMzEjanVzdGluZV9nb21lekBleHQuY2FycmVmb3VyLmNvbWUzMWVmY2QzYWJlMDhhNThkYmN
+ kNTBiY2Y4MjgxYTNmNjQ0MjRjM2Y%26ctz%3DEurope%252FParis%26hl%3Dfr%26es%3D0&d
+ ata=05%7C02%7Carthur.louart%40hec.edu%7Cf9dcc4cfdee34d1cf33f08dd0dfbe8d2%7
+ C69d4d246fd23401b9745ff5ecb5a765d%7C1%7C0%7C638682097779613549%7CUnknown%7
+ CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsI
+ kFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=TukkUleFx87j6%2Fjb%2Buc
+ svJtvLLNxpgtKlLk3zrffuBg%3D&reserved=0>\nPeut-être\n<https://eur02.safeli
+ nks.protection.outlook.com/?url=https%3A%2F%2Fcalendar.google.com%2Fcalend
+ ar%2Fevent%3Faction%3DVIEW%26eid%3DNTIycDQ2ZGJqNDgwZzBsajBxY252YW1hN2ogYXJ
+ 0aHVyLmxvdWFydEBoZWMuZWR1%26tok%3DMzEjanVzdGluZV9nb21lekBleHQuY2FycmVmb3Vy
+ LmNvbWUzMWVmY2QzYWJlMDhhNThkYmNkNTBiY2Y4MjgxYTNmNjQ0MjRjM2Y%26ctz%3DEurope
+ %252FParis%26hl%3Dfr%26es%3D0&data=05%7C02%7Carthur.louart%40hec.edu%7Cf9d
+ cc4cfdee34d1cf33f08dd0dfbe8d2%7C69d4d246fd23401b9745ff5ecb5a765d%7C1%7C0%7
+ C638682097779640282%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOi
+ IwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7
+ C&sdata=Q%2BrDU2ZWKWgSxjTFY5fZ2OVyI9vrY3%2BaoJBoPN4izTg%3D&reserved=0>\nAu
+ tres options\n\nInvitation de Google Agenda<https://eur02.safelinks.protec
+ tion.outlook.com/?url=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2F&data
+ =05%7C02%7Carthur.louart%40hec.edu%7Cf9dcc4cfdee34d1cf33f08dd0dfbe8d2%7C69
+ d4d246fd23401b9745ff5ecb5a765d%7C1%7C0%7C638682097779666085%7CUnknown%7CTW
+ FpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFO
+ IjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=sA8VUNoD0UogpieELMPga%2FuC
+ uafwVhSLtlRo2qko9Ns%3D&reserved=0>\n\nVous recevez cet e-mail\, car vous p
+ articipez à l’événement. Refusez cet événement pour ne plus recevoi
+ r de notifications le concernant.\n\nEn transférant cette invitation\, vo
+ us risquez d’autoriser tous les destinataires à envoyer une réponse à
+  l’organisateur\, à être ajoutés à la liste des invités\, à invite
+ r d’autres personnes indépendamment de l’état de l’invitation qu
+ ’ils ont reçue\, ou à modifier votre réponse à l’invitation. En sa
+ voir plus<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%
+ 2Fsupport.google.com%2Fcalendar%2Fanswer%2F37135%23forwarding&data=05%7C02
+ %7Carthur.louart%40hec.edu%7Cf9dcc4cfdee34d1cf33f08dd0dfbe8d2%7C69d4d246fd
+ 23401b9745ff5ecb5a765d%7C1%7C0%7C638682097779678858%7CUnknown%7CTWFpbGZsb3
+ d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFp
+ bCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=LHpy0zETxkWOb1PgkBUwzlmq%2FBsl34ZV
+ MumZSsFyVgU%3D&reserved=0>\n\nThis e-mail and any attachment are confident
+ ial and intended solely for the use of the individual to whom it is addres
+ sed. If you are not the intended recipient\, please telephone or email the
+  sender and delete this message and any attachment from your system. Unaut
+ horized publication\, use\, dissemination\, forwarding\, printing or copyi
+ ng of this e-mail and its associated attachments is strictly prohibited.\n
+ \nLet's respect the environment together. Only print this message if neces
+ sary.\n
+UID:522p46dbj480g0lj0qcnvama7j@google.com
+SUMMARY:Arthur / Justine
+DTSTART;TZID=Romance Standard Time:20241205T140000
+DTEND;TZID=Romance Standard Time:20241205T144500
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E008000000009FE25E249749DB01000000000000000
+ 01000000062F42E7EAAAA4E4E9696AC75238BD987
+SUMMARY:Drive Inter
+DTSTART;TZID=Romance Standard Time:20241210T090000
+DTEND;TZID=Romance Standard Time:20241210T100000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000689BDFCBEA48DB01000000000000000
+ 010000000966ADBB5599BF04BB31313B598061214
+SUMMARY:Coiffeur 
+DTSTART;TZID=Romance Standard Time:20241210T113000
+DTEND;TZID=Romance Standard Time:20241210T120000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E0080000000049C63B71D9F9DA01000000000000000
+ 0100000009E5F5371758A664C9E6342BF04606E2F
+SUMMARY:Pixel 🕺🏼
+DTSTART;TZID=Europe/Paris:20241213T211500
+DTEND;TZID=Europe/Paris:20241213T224500
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Le 13e Art
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E008000000003451CE71D9F9DA01000000000000000
+ 0100000001D0CD89F5AC65F479837C4825599F566
+SUMMARY:Panayotis Pascot 🎤 
+DTSTART;TZID=Europe/Paris:20241214T213000
+DTEND;TZID=Europe/Paris:20241214T230000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:L'européen
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E0080000000082CCD40B8D48DB01000000000000000
+ 01000000011265A525F4B284DB398BA6B6E00B666
+SUMMARY:Déjeuner Daddy et Malène
+DTSTART;TZID=Romance Standard Time:20241217T120000
+DTEND;TZID=Romance Standard Time:20241217T130000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000D96D5083F74BDB01000000000000000
+ 0100000008EFC97C77E035C4385A4FADD73A84F0C
+SUMMARY:Anniversaire Ny-Aina
+DTSTART;TZID=Romance Standard Time:20241221T120000
+DTEND;TZID=Romance Standard Time:20241221T140000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E008000000003793234C3E08DB01000000000000000
+ 0100000003A19BA411899A74CA3B62C5AE251CF16
+SUMMARY:La prochaine fois que tu mordras la poussiere 🎭 
+DTSTART;TZID=Europe/Paris:20241222T180000
+DTEND;TZID=Europe/Paris:20241222T200000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Théâtre du Petit Saint-Martin
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000DF414D6B9A5BDB01000000000000000
+ 010000000513DC0BCC7EB7A48A06EEBBD3B4E859C
+SUMMARY:Visite appart Versailles 25 rue de la Paroisse
+DTSTART;TZID=Romance Standard Time:20250102T120000
+DTEND;TZID=Romance Standard Time:20250102T123000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E008000000005801180F715BDB01000000000000000
+ 010000000FC359AEF03C2D449B272CA57CBBD56C9
+SUMMARY:Dîner papa
+DTSTART;TZID=Romance Standard Time:20250102T193000
+DTEND;TZID=Romance Standard Time:20250102T203000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E008000000000A57C62C715BDB01000000000000000
+ 0100000007837B4503238894E9014C349CA9D7A10
+SUMMARY:Visite appart Versailles 33 rue du Général Leclerc 
+DTSTART;TZID=Romance Standard Time:20250103T113000
+DTEND;TZID=Romance Standard Time:20250103T120000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000CC2C5353715BDB01000000000000000
+ 010000000A314C74F54C7724A9D4FD4150BB5E9B4
+SUMMARY:Visite appart Saint Cloud 16 avenue Bernard Palissy
+DTSTART;TZID=Romance Standard Time:20250103T130000
+DTEND;TZID=Romance Standard Time:20250103T133000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000A87E8F44F964DB01000000000000000
+ 01000000079A4A6E39B877F40935A4483320C5550
+SUMMARY:Visite appart Viroflay rue Gabriel Peri
+DTSTART;TZID=Romance Standard Time:20250115T143000
+DTEND;TZID=Romance Standard Time:20250115T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E008000000009E8E779AF964DB01000000000000000
+ 010000000C427E9E2A37F0A47A7209803C73ED0DE
+SUMMARY:Verre Esp'r
+DTSTART;TZID=Romance Standard Time:20250117T190000
+DTEND;TZID=Romance Standard Time:20250117T200000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Le Temple d'Or (17 Rue du FBG du Temple\, 75010 Paris Ile-de-franc
+ e\, France)
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000F99B2DC4DF65DB01000000000000000
+ 010000000364471C11ED9124AA2C869DBC87EE5E6
+SUMMARY:Théâtre - Numéro 2
+DTSTART;TZID=Romance Standard Time:20250128T210000
+DTEND;TZID=Romance Standard Time:20250128T220000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000F54BBE12A115DB01000000000000000
+ 010000000F5B2B9894A41DF4E82E3D21A43BBC7D4
+SUMMARY:Salon Talents for the Planet
+DTSTART;VALUE=DATE:20250319
+DTEND;VALUE=DATE:20250320
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Parc Floral Paris
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:You don't often get email from arthur_louart@carrefour.com. Lea
+ rn why this is important<https://aka.ms/LearnAboutSenderIdentification>\np
+ lease\n\nCet événement a été annulé.\n\n<https://eur02.safelinks.prot
+ ection.outlook.com/?url=https%3A%2F%2Fmeet.google.com%2Fjcu-xxvz-kxz%3Fhs%
+ 3D224&data=05%7C02%7Carthur.louart%40hec.edu%7Caab8d6a56af14467ee7408dd4c2
+ 9ad65%7C69d4d246fd23401b9745ff5ecb5a765d%7C1%7C0%7C638750464060241593%7CUn
+ known%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW
+ 4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=QwZi5wvXLui9sO2S
+ bdt1iLCEtzRmfBElOhR0H2CXfxc%3D&reserved=0>\nParticiper avec Google Meet\nL
+ ien de la réunion\nmeet.google.com/jcu-xxvz-kxz<https://eur02.safelinks.p
+ rotection.outlook.com/?url=https%3A%2F%2Fmeet.google.com%2Fjcu-xxvz-kxz%3F
+ hs%3D224&data=05%7C02%7Carthur.louart%40hec.edu%7Caab8d6a56af14467ee7408dd
+ 4c29ad65%7C69d4d246fd23401b9745ff5ecb5a765d%7C1%7C0%7C638750464060280352%7
+ CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJ
+ XaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=5FJaFRMHjgq52
+ S6mqgGWKgf5C6vQi5IUzYykMo7Ez68%3D&reserved=0>\nParticiper par téléphone\
+ n(FR) +33 1 87 40 36 38<tel:+33-1-87-40-36-38%3B671336315%23>\nCODE SECRET
+ : 671336315\n\nPlus de numéros de téléphone<https://eur02.safelinks.pro
+ tection.outlook.com/?url=https%3A%2F%2Ftel.meet%2Fjcu-xxvz-kxz%3Fpin%3D635
+ 7325123665%26hs%3D0&data=05%7C02%7Carthur.louart%40hec.edu%7Caab8d6a56af14
+ 467ee7408dd4c29ad65%7C69d4d246fd23401b9745ff5ecb5a765d%7C1%7C0%7C638750464
+ 060294585%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAw
+ MCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Uv
+ lyBnIYaKp11Kd1BwHl%2FnMeWjjgBsL3MxdtaRlPe%2BM%3D&reserved=0>\nDate\nmercre
+ di 9 avr. 2025 ⋅ 2:45pm – 3:45pm (Heure d’Europe centrale - Paris)\n
+ Invités\nArthur LOUART<mailto:arthur_louart@carrefour.com> - organisateur
+ \nlouart.arthur@gmail.com<mailto:louart.arthur@gmail.com>\narthur.louart@h
+ ec.edu<mailto:arthur.louart@hec.edu>\n\nInvitation de Google Agenda<https:
+ //eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcalendar.googl
+ e.com%2Fcalendar%2F&data=05%7C02%7Carthur.louart%40hec.edu%7Caab8d6a56af14
+ 467ee7408dd4c29ad65%7C69d4d246fd23401b9745ff5ecb5a765d%7C1%7C0%7C638750464
+ 060308946%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAw
+ MCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=B7
+ dRr3r0HBsJckpLvV5DuE%2F2%2FsOB3NXUav5y5g3E%2BHs%3D&reserved=0>\n\nVous rec
+ evez cet e-mail\, car vous participez à l’événement.\n\nEn transféra
+ nt cette invitation\, vous risquez d’autoriser tous les destinataires à
+  envoyer une réponse à l’organisateur\, à être ajoutés à la liste 
+ des invités\, à inviter d’autres personnes indépendamment de l’éta
+ t de l’invitation qu’ils ont reçue\, ou à modifier votre réponse à
+  l’invitation. En savoir plus<https://eur02.safelinks.protection.outlook
+ .com/?url=https%3A%2F%2Fsupport.google.com%2Fcalendar%2Fanswer%2F37135%23f
+ orwarding&data=05%7C02%7Carthur.louart%40hec.edu%7Caab8d6a56af14467ee7408d
+ d4c29ad65%7C69d4d246fd23401b9745ff5ecb5a765d%7C1%7C0%7C638750464060322402%
+ 7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOi
+ JXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=y0%2F1R%2FwL
+ thonTiMv1IGjMWVel2UnzuiQQz1Bo2a8Ikg%3D&reserved=0>\n\nThis e-mail and any 
+ attachment are confidential and intended solely for the use of the individ
+ ual to whom it is addressed. If you are not the intended recipient\, pleas
+ e telephone or email the sender and delete this message and any attachment
+  from your system. Unauthorized publication\, use\, dissemination\, forwar
+ ding\, printing or copying of this e-mail and its associated attachments i
+ s strictly prohibited.\n\nLet's respect the environment together. Only pri
+ nt this message if necessary.\n
+UID:1ho0rklmaqmdiftb2k3ntjtkis@google.com
+SUMMARY:Événement annulé: please - mer. 9 avr. 2025 2:45pm - 3:45pm (UTC
+ +2) (arthur.louart@hec.edu)
+DTSTART;TZID=Romance Standard Time:20250409T144500
+DTEND;TZID=Romance Standard Time:20250409T154500
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000770F2CCD4934DB01000000000000000
+ 010000000BAF266665EBB864C935FAB7AC94262FC
+SUMMARY:Mathilda Mann 🎶
+DTSTART;TZID=Europe/Paris:20250502T200000
+DTEND;TZID=Europe/Paris:20250502T213000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Le Pop-Up du Label (14 r Abel\, 75012 Paris 75\, France)
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000000A03235572FBDB01000000000000000
+ 0100000004F720043B213124E9DCB8C9E8064668F
+SUMMARY:SASI 2025-2026 BLACKBOARD PAGE
+DTSTART;TZID=Romance Standard Time:20250801T080000
+DTEND;TZID=Romance Standard Time:20250801T090000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000ED5D6D81671CDC01000000000000000
+ 010000000C84546045104D547A75584A70AACD6C1
+SUMMARY:BIODIVERSITY AS A KIND OF PHILANTHROPY
+DTSTART;TZID=Romance Standard Time:20250903T094000
+DTEND;TZID=Romance Standard Time:20250903T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Z-014
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000000A2F2782671CDC01000000000000000
+ 010000000E00A22701ED5464896802DD57529AB0C
+SUMMARY:BIODIVERSITY AS A KIND OF PHILANTHROPY
+DTSTART;TZID=Romance Standard Time:20250903T112000
+DTEND;TZID=Romance Standard Time:20250903T125000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Z-014
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000026325382671CDC01000000000000000
+ 0100000009F688E4749502E4A95A10C62E2908C6C
+SUMMARY:NATURE POSITIVE BUSINESS: DREAM OR REALITY?
+DTSTART;TZID=Romance Standard Time:20250903T144000
+DTEND;TZID=Romance Standard Time:20250903T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Z-014
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000008C0F7982671CDC01000000000000000
+ 0100000006341B66AF89E164D8E69C352221F826A
+SUMMARY:NATURE POSITIVE BUSINESS: DREAM OR REALITY?
+DTSTART;TZID=Romance Standard Time:20250903T162000
+DTEND;TZID=Romance Standard Time:20250903T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Z-014
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000011B35CF76A1CDC01000000000000000
+ 010000000B8E118D037509B44BFE93632FC7DCD92
+SUMMARY:GEOPOLITICS OF RESOURCES &amp\; ENERGY
+DTSTART;TZID=Romance Standard Time:20250904T094000
+DTEND;TZID=Romance Standard Time:20250904T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Z-014
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000004DE88F76A1CDC01000000000000000
+ 010000000E59E9985D2069C4E8F99170D885BD683
+SUMMARY:GEOPOLITICS OF RESOURCES &amp\; ENERGY
+DTSTART;TZID=Romance Standard Time:20250904T112000
+DTEND;TZID=Romance Standard Time:20250904T125000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Z-014
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000B50CB6F76A1CDC01000000000000000
+ 0100000007B3BE7502EB3DD4F8DF70CB1D15DDC9B
+SUMMARY:WATER ECONOMICS
+DTSTART;TZID=Romance Standard Time:20250904T144000
+DTEND;TZID=Romance Standard Time:20250904T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Z-014
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000005D8ED5F76A1CDC01000000000000000
+ 01000000024987606CE6E294E87625FA59E913365
+SUMMARY:WATER ECONOMICS
+DTSTART;TZID=Romance Standard Time:20250904T162000
+DTEND;TZID=Romance Standard Time:20250904T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Z-014
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000003B9E98CF6D1CDC01000000000000000
+ 0100000001EB0A9850468204C880F804F55E6E958
+SUMMARY:RISE - SERIOUS GAME - OUR WORLD HERITAGE
+DTSTART;TZID=Romance Standard Time:20250905T090000
+DTEND;TZID=Romance Standard Time:20250905T094000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000007188D7CF6D1CDC01000000000000000
+ 01000000064A69996467FE24D9FBD54BB615C8B3C
+SUMMARY:RISE - SERIOUS GAME - OUR WORLD HERITAGE
+DTSTART;TZID=Romance Standard Time:20250905T094000
+DTEND;TZID=Romance Standard Time:20250905T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T206
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000493EF9CF6D1CDC01000000000000000
+ 01000000073EB743037C6E84295E20FBFB8AAB69E
+SUMMARY:RISE - SERIOUS GAME - OUR WORLD HERITAGE
+DTSTART;TZID=Romance Standard Time:20250905T112000
+DTEND;TZID=Romance Standard Time:20250905T125000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T206
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000047021ED06D1CDC01000000000000000
+ 01000000093FA939C25E61B4CBE1E428B50712A07
+SUMMARY:OPINION AND DISINFORMATION: ADDRESSING THE BACKLASH AGAINST THE ECO
+ LOGICAL TRANSITION
+DTSTART;TZID=Romance Standard Time:20250905T144000
+DTEND;TZID=Romance Standard Time:20250905T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Z-014
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000268E4FD06D1CDC01000000000000000
+ 0100000004D6221AD997C4340A30AE2F27E1CC8DE
+SUMMARY:OPINION AND DISINFORMATION: ADDRESSING THE BACKLASH AGAINST THE ECO
+ LOGICAL TRANSITION
+DTSTART;TZID=Romance Standard Time:20250905T162000
+DTEND;TZID=Romance Standard Time:20250905T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Z-014
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000528840EE741CDC01000000000000000
+ 01000000023D9082E2D5EC3458F23A83134B4654B
+SUMMARY:BUSINESS PROJECTS TRACK
+DTSTART;TZID=Romance Standard Time:20250908T093000
+DTEND;TZID=Romance Standard Time:20250908T103000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Z-014
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000AD586AEE741CDC01000000000000000
+ 010000000D7133344497DF04593CE56B50CA74980
+SUMMARY:INEQUALITIES
+DTSTART;TZID=Romance Standard Time:20250908T103000
+DTEND;TZID=Romance Standard Time:20250908T120000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Z-014
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000008BC18EEE741CDC01000000000000000
+ 0100000009BA8BA5C0DF90C42924BA1F1F1F9AC3F
+SUMMARY:INEQUALITIES
+DTSTART;TZID=Romance Standard Time:20250908T120000
+DTEND;TZID=Romance Standard Time:20250908T133000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Z-014
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000003799D2ED741CDC01000000000000000
+ 01000000044EEFE2B967AAE48BAF4C4E58A238795
+SUMMARY:CAN WE HAVE SUSTAINABILITY WITHOUT HUMAN RIGHTS?
+DTSTART;TZID=Romance Standard Time:20250908T144000
+DTEND;TZID=Romance Standard Time:20250908T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Z-014
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000E2581CEE741CDC01000000000000000
+ 01000000014D9B8375937CA4E8352AC3895ABA105
+SUMMARY:CAN WE HAVE SUSTAINABILITY WITHOUT HUMAN RIGHTS?
+DTSTART;TZID=Romance Standard Time:20250908T162000
+DTEND;TZID=Romance Standard Time:20250908T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Z-014
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000067F0A1A4771CDC01000000000000000
+ 010000000B22D52CCD0516D46B50331894FE783C5
+SUMMARY:CLIMATE SENSE EXPERIMENT
+DTSTART;TZID=Romance Standard Time:20250909T083000
+DTEND;TZID=Romance Standard Time:20250909T143000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000CE8251A4771CDC01000000000000000
+ 010000000725476329F4DD240BFC7E4A482AE0480
+SUMMARY:MANAGING WHAT WE CANNOT AVOID
+DTSTART;TZID=Romance Standard Time:20250909T144000
+DTEND;TZID=Romance Standard Time:20250909T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Z-014
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000008A5E7BA4771CDC01000000000000000
+ 01000000002227AD7E4165343B220BC0C341F142B
+SUMMARY:MANAGING WHAT WE CANNOT AVOID
+DTSTART;TZID=Romance Standard Time:20250909T162000
+DTEND;TZID=Romance Standard Time:20250909T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Z-014
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000B52A6BC6791CDC01000000000000000
+ 0100000005383484F7971D546B27B411E37F9E217
+SUMMARY:FAIRNESS IN BUSINESS\, A LOGICAL IMPOSSIBILITY?
+DTSTART;TZID=Romance Standard Time:20250910T094000
+DTEND;TZID=Romance Standard Time:20250910T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Z-014
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000008F9696C6791CDC01000000000000000
+ 0100000008C25009AC219C545BC589D29973B5D17
+SUMMARY:FAIRNESS IN BUSINESS\, A LOGICAL IMPOSSIBILITY?
+DTSTART;TZID=Romance Standard Time:20250910T112000
+DTEND;TZID=Romance Standard Time:20250910T125000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Z-014
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000095ECC5C6791CDC01000000000000000
+ 010000000D4247B74317C314B95765FFBF19D8E57
+SUMMARY:THEATRE COMEDY SHOW
+DTSTART;TZID=Romance Standard Time:20250910T143000
+DTEND;TZID=Romance Standard Time:20250910T163000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000004D3CF6C6791CDC01000000000000000
+ 010000000918D51830F76FC41929180536C8F1569
+SUMMARY:AGROPARITECH EXCHANGE ONLINE Presentation (OPTIONAL)
+DTSTART;TZID=Romance Standard Time:20250910T180000
+DTEND;TZID=Romance Standard Time:20250910T190000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000001D6973C77B1CDC01000000000000000
+ 010000000B09B8BA3F22663469A686FF35019FAED
+SUMMARY:WHY CAN'T WE BE FRIENDS: HOW POLARIZATION SHAPES OUR WORLD
+DTSTART;TZID=Romance Standard Time:20250911T094000
+DTEND;TZID=Romance Standard Time:20250911T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Z-014
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000066F0A9C77B1CDC01000000000000000
+ 010000000BF9F79E54B467B4CAB6283FF735552E5
+SUMMARY:WHY CAN'T WE BE FRIENDS: HOW POLARIZATION SHAPES OUR WORLD
+DTSTART;TZID=Romance Standard Time:20250911T112000
+DTEND;TZID=Romance Standard Time:20250911T125000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Z-014
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000087CDEC77B1CDC01000000000000000
+ 010000000D421A0604817DA4697C6DD7046CC3784
+SUMMARY:ROBUSTNESS: THE BENEFITS OF IMPERFECTION
+DTSTART;TZID=Romance Standard Time:20250911T140000
+DTEND;TZID=Romance Standard Time:20250911T153000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Z-014
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000008A0B0CC87B1CDC01000000000000000
+ 0100000001552FF7DD3DB9649A5737DA359173477
+SUMMARY:ROBUSTNESS: THE BENEFITS OF IMPERFECTION
+DTSTART;TZID=Romance Standard Time:20250911T153000
+DTEND;TZID=Romance Standard Time:20250911T170000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Z-014
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000069F246C87B1CDC01000000000000000
+ 0100000008F3AAC974F694F41B98662AD2B80BD4F
+SUMMARY:PRESENTATION LAUNCHPAD (OPTIONAL)
+DTSTART;TZID=Romance Standard Time:20250911T180000
+DTEND;TZID=Romance Standard Time:20250911T190000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000446C40937E1CDC01000000000000000
+ 0100000005441CD07B99E8740839BA2C2CEDD3096
+SUMMARY:WORKSHOP - FRANCE NET ZERO
+DTSTART;TZID=Romance Standard Time:20250912T094000
+DTEND;TZID=Romance Standard Time:20250912T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T206
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000000B9680937E1CDC01000000000000000
+ 01000000084B3FBF3A6B88543BAD12EEE472285F4
+SUMMARY:WORKSHOP - FRANCE NET ZERO
+DTSTART;TZID=Romance Standard Time:20250912T112000
+DTEND;TZID=Romance Standard Time:20250912T125000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T206
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000006B3EB6937E1CDC01000000000000000
+ 0100000003D95B79D49D53549B8E204BBE9D0DCAF
+SUMMARY:WORKSHOP - FRANCE NET ZERO
+DTSTART;TZID=Romance Standard Time:20250912T144000
+DTEND;TZID=Romance Standard Time:20250912T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T206
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000631BE8937E1CDC01000000000000000
+ 01000000012E5B74EFB3B104DB49444E3832F0F78
+SUMMARY:WORKSHOP - FRANCE NET ZERO
+DTSTART;TZID=Romance Standard Time:20250912T162000
+DTEND;TZID=Romance Standard Time:20250912T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T206
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000044BD02D44624DC01000000000000000
+ 0100000004A2D191C00C1C346B0B40E7776D17526
+SUMMARY:STRATEGY FOR SUSTAINABILITY: SHAPING INNOVATIVE BUSINESS MODELS
+DTSTART;TZID=Romance Standard Time:20250915T094000
+DTEND;TZID=Romance Standard Time:20250915T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T017
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000C69145D44624DC01000000000000000
+ 0100000008C8D5D8B1DF22E4B9BAE7177F141E30E
+SUMMARY:STRATEGY FOR SUSTAINABILITY: SHAPING INNOVATIVE BUSINESS MODELS
+DTSTART;TZID=Romance Standard Time:20250915T112000
+DTEND;TZID=Romance Standard Time:20250915T125000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T017
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000B411FC2E4924DC01000000000000000
+ 010000000F4DE918962DE5C45AE7473FD273298F4
+SUMMARY:ENVIRONMENTAL ACCOUNTING &amp\; PERFORMANCE
+DTSTART;TZID=Romance Standard Time:20250916T094000
+DTEND;TZID=Romance Standard Time:20250916T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:-T033
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000DB313C2F4924DC01000000000000000
+ 0100000002C78C7FDDF1ADC4B8D78670295109D32
+SUMMARY:ENVIRONMENTAL ACCOUNTING &amp\; PERFORMANCE
+DTSTART;TZID=Romance Standard Time:20250916T112000
+DTEND;TZID=Romance Standard Time:20250916T125000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:-T033
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000009D6AEE534B24DC01000000000000000
+ 010000000527E2E47663B3B49BC9A59077B134206
+SUMMARY:REGENERATIVE PROCUREMENT
+DTSTART;TZID=Romance Standard Time:20250917T094000
+DTEND;TZID=Romance Standard Time:20250917T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T022
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000024131F544B24DC01000000000000000
+ 010000000647602BBA6B56749A75B7666BFD4C67F
+SUMMARY:REGENERATIVE PROCUREMENT
+DTSTART;TZID=Romance Standard Time:20250917T112000
+DTEND;TZID=Romance Standard Time:20250917T125000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T022
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000010E4A544B24DC01000000000000000
+ 0100000008DB8598D37B2094D98CE3E3D02FB6D38
+SUMMARY:REGENERATIVE PROCUREMENT
+DTSTART;TZID=Romance Standard Time:20250917T144000
+DTEND;TZID=Romance Standard Time:20250917T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T105
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000003F7F77544B24DC01000000000000000
+ 0100000003FDDD2A493592B4BB5E2DFDD8B5B0E48
+SUMMARY:REGENERATIVE PROCUREMENT
+DTSTART;TZID=Romance Standard Time:20250917T162000
+DTEND;TZID=Romance Standard Time:20250917T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T105
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000005A23E6214F24DC01000000000000000
+ 01000000084AE157081B9B445AA33846B1DC427CD
+SUMMARY:EUROPEAN CLIMATE POLICY AND REGULATIONS
+DTSTART;TZID=Romance Standard Time:20250919T140000
+DTEND;TZID=Romance Standard Time:20250919T153000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T025
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000A3A115224F24DC01000000000000000
+ 01000000091BD1527752A2A4ABE2C0FD495E599A1
+SUMMARY:EUROPEAN CLIMATE POLICY AND REGULATIONS
+DTSTART;TZID=Romance Standard Time:20250919T154000
+DTEND;TZID=Romance Standard Time:20250919T171000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T025
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000001A99289C5624DC01000000000000000
+ 0100000001F1D8E18EA9FEB469335562533393388
+SUMMARY:ENVIRONMENTAL ACCOUNTING &amp\; PERFORMANCE
+DTSTART;TZID=Romance Standard Time:20250923T090000
+DTEND;TZID=Romance Standard Time:20250923T103000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:-T209
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000A030789C5624DC01000000000000000
+ 010000000D9C0A3CC9814E6449D1A6F0A73CC9790
+SUMMARY:ENVIRONMENTAL ACCOUNTING &amp\; PERFORMANCE
+DTSTART;TZID=Romance Standard Time:20250923T103000
+DTEND;TZID=Romance Standard Time:20250923T120000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:-T209
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000004EF5133B5C24DC01000000000000000
+ 010000000B335E5891432D84CBC110412179705C0
+SUMMARY:EUROPEAN CLIMATE POLICY AND REGULATIONS
+DTSTART;TZID=Romance Standard Time:20250926T094000
+DTEND;TZID=Romance Standard Time:20250926T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T020
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000083D14E3B5C24DC01000000000000000
+ 0100000005731F91AA1724A409721A05BB347630C
+SUMMARY:EUROPEAN CLIMATE POLICY AND REGULATIONS
+DTSTART;TZID=Romance Standard Time:20250926T112000
+DTEND;TZID=Romance Standard Time:20250926T125000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T020
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000C154773B5C24DC01000000000000000
+ 010000000E1F5F1767111534890607A8985A351C6
+SUMMARY:EUROPEAN CLIMATE POLICY AND REGULATIONS
+DTSTART;TZID=Romance Standard Time:20250926T133000
+DTEND;TZID=Romance Standard Time:20250926T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T020
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000006DBA9C3B5C24DC01000000000000000
+ 010000000E4A089C3477FFD438E7B6A0801610102
+SUMMARY:EUROPEAN CLIMATE POLICY AND REGULATIONS
+DTSTART;TZID=Romance Standard Time:20250926T151000
+DTEND;TZID=Romance Standard Time:20250926T164000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T020
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000085F496E96424DC01000000000000000
+ 010000000C98473F16ABD38429C2B08947AB35872
+SUMMARY:REGENERATIVE PROCUREMENT
+DTSTART;TZID=Romance Standard Time:20251001T094000
+DTEND;TZID=Romance Standard Time:20251001T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:-T306
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000008800E3E96424DC01000000000000000
+ 010000000BD2E049D272F7C43A720DD979CCFCF27
+SUMMARY:REGENERATIVE PROCUREMENT
+DTSTART;TZID=Romance Standard Time:20251001T112000
+DTEND;TZID=Romance Standard Time:20251001T125000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:-T306
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000B82F2E7A1329DC01000000000000000
+ 0100000009BB6CA4A6B46CD448148F4FAB0C6F4E3
+SUMMARY:REGENERATIVE PROCUREMENT
+DTSTART;TZID=Romance Standard Time:20251001T144000
+DTEND;TZID=Romance Standard Time:20251001T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:-T306
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000042CC5D7A1329DC01000000000000000
+ 0100000008EF49779CF64F44A9587670866A76BF4
+SUMMARY:REGENERATIVE PROCUREMENT
+DTSTART;TZID=Romance Standard Time:20251001T162000
+DTEND;TZID=Romance Standard Time:20251001T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:-T306
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000080ADC8966624DC01000000000000000
+ 0100000009BAB5871D361AC47B430A254402E6F4F
+SUMMARY:STRATEGY FOR SUSTAINABILITY: SHAPING INNOVATIVE BUSINESS MODELS
+DTSTART;TZID=Romance Standard Time:20251002T080000
+DTEND;TZID=Romance Standard Time:20251002T093000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T030
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000BF1098966624DC01000000000000000
+ 010000000D8F35469D4E05A44A28ABB1D50E7FE9B
+SUMMARY:STRATEGY FOR SUSTAINABILITY: SHAPING INNOVATIVE BUSINESS MODELS
+DTSTART;TZID=Romance Standard Time:20251002T094000
+DTEND;TZID=Romance Standard Time:20251002T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T030
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000FE8B32966624DC01000000000000000
+ 0100000000790675D1BC8C444BFF2D12010584542
+SUMMARY:ENVIRONMENTAL ACCOUNTING &amp\; PERFORMANCE
+DTSTART;TZID=Romance Standard Time:20251002T144000
+DTEND;TZID=Romance Standard Time:20251002T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T037
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000003F8668966624DC01000000000000000
+ 0100000000467DEDB0962F14EA0788D3B1EAA7570
+SUMMARY:ENVIRONMENTAL ACCOUNTING &amp\; PERFORMANCE
+DTSTART;TZID=Romance Standard Time:20251002T162000
+DTEND;TZID=Romance Standard Time:20251002T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T037
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000009A546C286824DC01000000000000000
+ 01000000006E99BE4411C7F4BAE0BDC72E20069FE
+SUMMARY:EUROPEAN CLIMATE POLICY AND REGULATIONS
+DTSTART;TZID=Romance Standard Time:20251003T094000
+DTEND;TZID=Romance Standard Time:20251003T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T104
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000002378AF286824DC01000000000000000
+ 01000000055002504AEA65C46B98C4E7347210D91
+SUMMARY:EUROPEAN CLIMATE POLICY AND REGULATIONS
+DTSTART;TZID=Romance Standard Time:20251003T112000
+DTEND;TZID=Romance Standard Time:20251003T125000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T104
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000087A1E3286824DC01000000000000000
+ 01000000059B0B2C6BBD8F44884F79A25E9392EE7
+SUMMARY:EUROPEAN CLIMATE POLICY AND REGULATIONS
+DTSTART;TZID=Romance Standard Time:20251003T133000
+DTEND;TZID=Romance Standard Time:20251003T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T022
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000007B8510296824DC01000000000000000
+ 0100000009B036DAEF05BAF42B2ED04D6B3AE51E8
+SUMMARY:EUROPEAN CLIMATE POLICY AND REGULATIONS
+DTSTART;TZID=Romance Standard Time:20251003T151000
+DTEND;TZID=Romance Standard Time:20251003T164000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T022
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000054228FFF6C24DC01000000000000000
+ 010000000DB708029D88D044F8D53921B34B7220D
+SUMMARY:STRATEGY FOR SUSTAINABILITY: SHAPING INNOVATIVE BUSINESS MODELS
+DTSTART;TZID=Romance Standard Time:20251006T094000
+DTEND;TZID=Romance Standard Time:20251006T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T201
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000F364CDFF6C24DC01000000000000000
+ 010000000EED37B583EDBCA4AA8958511A15B5E27
+SUMMARY:STRATEGY FOR SUSTAINABILITY: SHAPING INNOVATIVE BUSINESS MODELS
+DTSTART;TZID=Romance Standard Time:20251006T112000
+DTEND;TZID=Romance Standard Time:20251006T125000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T201
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000694B1AFF6C24DC01000000000000000
+ 010000000D2A5F4C96A360E4685C37C3F7215CD3E
+SUMMARY:ENVIRONMENTAL ACCOUNTING &amp\; PERFORMANCE
+DTSTART;TZID=Romance Standard Time:20251006T162000
+DTEND;TZID=Romance Standard Time:20251006T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:-T202
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000007CF58FF6C24DC01000000000000000
+ 0100000005532BB78178AA940B0DD07D471EC6178
+SUMMARY:ENVIRONMENTAL ACCOUNTING &amp\; PERFORMANCE
+DTSTART;TZID=Romance Standard Time:20251006T180000
+DTEND;TZID=Romance Standard Time:20251006T193000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:-T202
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000008F9FE3397324DC01000000000000000
+ 010000000DC90B4A678203C43942EEBF0FEB6478D
+SUMMARY:ENVIRONMENTAL ACCOUNTING &amp\; PERFORMANCE
+DTSTART;TZID=Romance Standard Time:20251009T144000
+DTEND;TZID=Romance Standard Time:20251009T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T105
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000B2802D3A7324DC01000000000000000
+ 0100000000B4C1D0AA739C24881B5B1A972B609F0
+SUMMARY:ENVIRONMENTAL ACCOUNTING &amp\; PERFORMANCE
+DTSTART;TZID=Romance Standard Time:20251009T162000
+DTEND;TZID=Romance Standard Time:20251009T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T105
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000000033C66CCD2DDC01000000000000000
+ 0100000007269C54A0DC98344BCCA1BF822319E36
+SUMMARY:THESIS GUIDANCE - MANDATORY
+DTSTART;TZID=Romance Standard Time:20251010T130000
+DTEND;TZID=Romance Standard Time:20251010T143000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:A PLACER
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000F2C0046DCD2DDC01000000000000000
+ 01000000052C5DA192E382541B34A74C539E697D6
+SUMMARY:THESIS GUIDANCE - MANDATORY
+DTSTART;TZID=Romance Standard Time:20251010T143000
+DTEND;TZID=Romance Standard Time:20251010T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:A PLACER
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000098EF800F7C24DC01000000000000000
+ 0100000000C3829AB9762EA44BB8F6C0B2801A530
+SUMMARY:RESEARCH METHODS - GROUP B
+DTSTART;TZID=Romance Standard Time:20251015T094000
+DTEND;TZID=Romance Standard Time:20251015T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:-T203
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000CFD7D90F7C24DC01000000000000000
+ 010000000681D73DBE2C98745981EF1842A257C7B
+SUMMARY:RESEARCH METHODS - GROUP B
+DTSTART;TZID=Romance Standard Time:20251015T112000
+DTEND;TZID=Romance Standard Time:20251015T125000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:-T203
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000004A093E287F24DC01000000000000000
+ 010000000C17DBC06426AB14C9E9EED4E0CD89407
+SUMMARY:EUROPEAN CLIMATE POLICY AND REGULATIONS
+DTSTART;TZID=Romance Standard Time:20251017T090000
+DTEND;TZID=Romance Standard Time:20251017T103000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:ONLINE
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000F09183287F24DC01000000000000000
+ 010000000D5ABD6E4815BC14AA76D7CB143DCBDCD
+SUMMARY:EUROPEAN CLIMATE POLICY AND REGULATIONS
+DTSTART;TZID=Romance Standard Time:20251017T104000
+DTEND;TZID=Romance Standard Time:20251017T121000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:ONLINE
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000008C8BB2277F24DC01000000000000000
+ 010000000E5951B8C082A2A4CB163DCBABEE9BEDC
+SUMMARY:ENVIRONMENTAL ACCOUNTING &amp\; PERFORMANCE
+DTSTART;TZID=Romance Standard Time:20251017T130000
+DTEND;TZID=Romance Standard Time:20251017T143000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:-T203
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000B532FB277F24DC01000000000000000
+ 01000000070982D7BEA27074BBE132F2D2E53E07F
+SUMMARY:ENVIRONMENTAL ACCOUNTING &amp\; PERFORMANCE
+DTSTART;TZID=Romance Standard Time:20251017T143000
+DTEND;TZID=Romance Standard Time:20251017T160000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:-T203
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000D4F9089B8324DC01000000000000000
+ 010000000D59F1EE2E8764841B185BF3A8C0B9661
+SUMMARY:STRATEGY FOR SUSTAINABILITY: SHAPING INNOVATIVE BUSINESS MODELS
+DTSTART;TZID=Romance Standard Time:20251020T094000
+DTEND;TZID=Romance Standard Time:20251020T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T017
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000045F55B9B8324DC01000000000000000
+ 01000000064ABDFA9A3901B439729FD49B414EFE9
+SUMMARY:STRATEGY FOR SUSTAINABILITY: SHAPING INNOVATIVE BUSINESS MODELS
+DTSTART;TZID=Romance Standard Time:20251020T112000
+DTEND;TZID=Romance Standard Time:20251020T125000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T017
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000004645C4748524DC01000000000000000
+ 010000000909EF68C53A8AC4CBD656577FB3CEB5F
+SUMMARY:STRATEGY FOR SUSTAINABILITY: SHAPING INNOVATIVE BUSINESS MODELS
+DTSTART;TZID=Romance Standard Time:20251021T094000
+DTEND;TZID=Romance Standard Time:20251021T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T017
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000D88315758524DC01000000000000000
+ 010000000595F27B74E69494392FA24F933E477FC
+SUMMARY:STRATEGY FOR SUSTAINABILITY: SHAPING INNOVATIVE BUSINESS MODELS
+DTSTART;TZID=Romance Standard Time:20251021T112000
+DTEND;TZID=Romance Standard Time:20251021T125000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T017
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000006091A30D9224DC01000000000000000
+ 010000000809532A350972F4D9DC48E75A546A152
+SUMMARY:RESEARCH METHODS - GROUP B
+DTSTART;TZID=Romance Standard Time:20251030T094000
+DTEND;TZID=Romance Standard Time:20251030T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T036
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000692D0C0E9224DC01000000000000000
+ 010000000BEE079919974B8498326C87868459439
+SUMMARY:RESEARCH METHODS - GROUP B
+DTSTART;TZID=Romance Standard Time:20251030T112000
+DTEND;TZID=Romance Standard Time:20251030T125000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T036
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000E70701549324DC01000000000000000
+ 010000000D6037BF56616254E91073519880D12FE
+SUMMARY:REGENERATIVE PROCUREMENT
+DTSTART;TZID=Romance Standard Time:20251031T094000
+DTEND;TZID=Romance Standard Time:20251031T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T030
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000007FC461549324DC01000000000000000
+ 0100000006ADFBC70E06B4347A4E920983B2EA1FA
+SUMMARY:REGENERATIVE PROCUREMENT
+DTSTART;TZID=Romance Standard Time:20251031T112000
+DTEND;TZID=Romance Standard Time:20251031T125000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T030
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000089A9BE549324DC01000000000000000
+ 01000000049031D9D006E9C42A7513B07BD600B5C
+SUMMARY:REGENERATIVE PROCUREMENT
+DTSTART;TZID=Romance Standard Time:20251031T144000
+DTEND;TZID=Romance Standard Time:20251031T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T001
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000002D514559324DC01000000000000000
+ 0100000003C11554A8519A24E8BD6BC03A5BB97F8
+SUMMARY:REGENERATIVE PROCUREMENT
+DTSTART;TZID=Romance Standard Time:20251031T162000
+DTEND;TZID=Romance Standard Time:20251031T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T001
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000087CF941CD527DC01000000000000000
+ 01000000060537DD651129B48A07797416DBA5A97
+SUMMARY:RESEARCH METHODS - GROUP B
+DTSTART;TZID=Romance Standard Time:20251103T144000
+DTEND;TZID=Romance Standard Time:20251103T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T302
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000005BB20D1DD527DC01000000000000000
+ 01000000040A0860EE11690468FDC9F68C144822D
+SUMMARY:RESEARCH METHODS - GROUP B
+DTSTART;TZID=Romance Standard Time:20251103T162000
+DTEND;TZID=Romance Standard Time:20251103T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T302
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000EF5053066D17DC01000000000000000
+ 010000000083BBE0AB6B8564A9BE61AFA66843984
+SUMMARY:TALENT DAY
+DTSTART;TZID=Romance Standard Time:20251105T090000
+DTEND;TZID=Romance Standard Time:20251105T180000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000008E0C27DB9E24DC01000000000000000
+ 010000000AC6701658ADADB4AB6FA94A584665003
+SUMMARY:SOCIAL IMPACT ASSESSMENT
+DTSTART;TZID=Romance Standard Time:20251107T144000
+DTEND;TZID=Romance Standard Time:20251107T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T030
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000008F21ABDB9E24DC01000000000000000
+ 0100000003A3D652FC76115418616F9BAD3D191D5
+SUMMARY:SOCIAL IMPACT ASSESSMENT
+DTSTART;TZID=Romance Standard Time:20251107T162000
+DTEND;TZID=Romance Standard Time:20251107T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T030
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000003E8A7A1B6123DC01000000000000000
+ 010000000A45F34F0990F414586F85BEAE4BEEB27
+SUMMARY:SOCIAL IMPACT ASSESSMENT
+DTSTART;TZID=Romance Standard Time:20251112T094000
+DTEND;TZID=Romance Standard Time:20251112T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T036
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000043DD1D1C6123DC01000000000000000
+ 0100000001D30E4C5F4B74046B9109A3BE9C514A1
+SUMMARY:SOCIAL IMPACT ASSESSMENT
+DTSTART;TZID=Romance Standard Time:20251112T112000
+DTEND;TZID=Romance Standard Time:20251112T125000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T015
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000061A49DBE6826DC01000000000000000
+ 0100000001AC38E3C60D3CF4E969AC36006BB81AA
+SUMMARY:RESEARCH METHODS - GROUP B
+DTSTART;TZID=Romance Standard Time:20251119T094000
+DTEND;TZID=Romance Standard Time:20251119T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T302
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000228924BF6826DC01000000000000000
+ 01000000095C3B11A75C80D45BA32F7341D28390B
+SUMMARY:RESEARCH METHODS - GROUP B
+DTSTART;TZID=Romance Standard Time:20251119T112000
+DTEND;TZID=Romance Standard Time:20251119T125000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T302
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000692AC55C7323DC01000000000000000
+ 0100000002D923A4F0C3BA749A1FBB505157DAF21
+SUMMARY:SOCIAL IMPACT ASSESSMENT
+DTSTART;TZID=Romance Standard Time:20251119T144000
+DTEND;TZID=Romance Standard Time:20251119T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:-T203
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000002A0C4B5E7323DC01000000000000000
+ 010000000BA9767A3AA05F441B00662C6FEAA971B
+SUMMARY:SOCIAL IMPACT ASSESSMENT
+DTSTART;TZID=Romance Standard Time:20251119T162000
+DTEND;TZID=Romance Standard Time:20251119T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:-T203
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000005CD817A8423DC01000000000000000
+ 010000000163C672D01929249A94746A32CB2785F
+SUMMARY:SOCIAL IMPACT ASSESSMENT
+DTSTART;TZID=Romance Standard Time:20251125T144000
+DTEND;TZID=Romance Standard Time:20251125T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:-T033
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000FF58447B8423DC01000000000000000
+ 0100000004DE7D933A311AA4DAC44AC3E2919657B
+SUMMARY:SOCIAL IMPACT ASSESSMENT
+DTSTART;TZID=Romance Standard Time:20251125T162000
+DTEND;TZID=Romance Standard Time:20251125T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:-T033
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000003245809B8B23DC01000000000000000
+ 0100000003D0392ACCC6AFF4FA1E469738215C628
+SUMMARY:BUSINESS\, HUMAN RIGHTS &amp\; THE ENVIRONMENT
+DTSTART;TZID=Romance Standard Time:20251127T144000
+DTEND;TZID=Romance Standard Time:20251127T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:-T306
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000AB98579C8B23DC01000000000000000
+ 0100000003BBFB01502F6B44F97A2DE4517D71BB5
+SUMMARY:BUSINESS\, HUMAN RIGHTS &amp\; THE ENVIRONMENT
+DTSTART;TZID=Romance Standard Time:20251127T162000
+DTEND;TZID=Romance Standard Time:20251127T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:-T306
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000A2ED0C9D8B23DC01000000000000000
+ 0100000005A24FE37DACD1E47B07C03B4CDFE5F73
+SUMMARY:BUSINESS\, HUMAN RIGHTS &amp\; THE ENVIRONMENT
+DTSTART;TZID=Romance Standard Time:20251127T180000
+DTEND;TZID=Romance Standard Time:20251127T193000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:-T306
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000F4F483743928DC01000000000000000
+ 0100000002DE870969BAA104EAF6ED85E6DB72586
+SUMMARY:SOCIAL IMPACT ASSESSMENT
+DTSTART;TZID=Romance Standard Time:20251203T094000
+DTEND;TZID=Romance Standard Time:20251203T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T303
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000008B7D13753928DC01000000000000000
+ 0100000002BFB989EE964DD4AA14B6A42AF4208F0
+SUMMARY:SOCIAL IMPACT ASSESSMENT
+DTSTART;TZID=Romance Standard Time:20251203T112000
+DTEND;TZID=Romance Standard Time:20251203T125000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T303
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000001CD3A47E9F23DC01000000000000000
+ 0100000001A06CB51C911214ABBCBE2428A1C2499
+SUMMARY:BUSINESS\, HUMAN RIGHTS &amp\; THE ENVIRONMENT
+DTSTART;TZID=Romance Standard Time:20251204T144000
+DTEND;TZID=Romance Standard Time:20251204T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T022
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000F928847F9F23DC01000000000000000
+ 010000000769EA388BFCE1A408C84E583B14D16CB
+SUMMARY:BUSINESS\, HUMAN RIGHTS &amp\; THE ENVIRONMENT
+DTSTART;TZID=Romance Standard Time:20251204T162000
+DTEND;TZID=Romance Standard Time:20251204T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T022
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000007F1358809F23DC01000000000000000
+ 010000000FC0E31A8CAEA504E8A9825CE5A935CB4
+SUMMARY:BUSINESS\, HUMAN RIGHTS &amp\; THE ENVIRONMENT
+DTSTART;TZID=Romance Standard Time:20251204T180000
+DTEND;TZID=Romance Standard Time:20251204T193000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T022
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000D374BCCE8C26DC01000000000000000
+ 010000000598D6170B4714F4B83AAEE3895BE952C
+SUMMARY:RESEARCH METHODS - GROUP B
+DTSTART;TZID=Romance Standard Time:20251205T094000
+DTEND;TZID=Romance Standard Time:20251205T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T303
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000047429ECF8C26DC01000000000000000
+ 010000000E82903ACF7B08D45855E5282F6843FD2
+SUMMARY:RESEARCH METHODS - GROUP B
+DTSTART;TZID=Romance Standard Time:20251205T112000
+DTEND;TZID=Romance Standard Time:20251205T125000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T303
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000C199373FA623DC01000000000000000
+ 010000000EDB0B33B08D58A4299669CC2F5EC6D68
+SUMMARY:DECARBONIZATION STRATEGIES
+DTSTART;TZID=Romance Standard Time:20251208T144000
+DTEND;TZID=Romance Standard Time:20251208T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T304
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000067071E40A623DC01000000000000000
+ 010000000D97A70F8C527154DAB111E440DFF3FD9
+SUMMARY:DECARBONIZATION STRATEGIES
+DTSTART;TZID=Romance Standard Time:20251208T162000
+DTEND;TZID=Romance Standard Time:20251208T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T304
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000E3462AEE9226DC01000000000000000
+ 0100000002B3C53119265DF44A7390257B64299FD
+SUMMARY:RESEARCH METHODS - GROUP B
+DTSTART;TZID=Romance Standard Time:20251209T094000
+DTEND;TZID=Romance Standard Time:20251209T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T302
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000D7AECCEE9226DC01000000000000000
+ 010000000C82AD0E2B2E9D840A7DA718007B4DEF5
+SUMMARY:RESEARCH METHODS - GROUP B
+DTSTART;TZID=Romance Standard Time:20251209T112000
+DTEND;TZID=Romance Standard Time:20251209T125000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T302
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000004003632AA23DC01000000000000000
+ 010000000E8CF4DCAB9EA744DA0C9550B797D2089
+SUMMARY:SOCIAL IMPACT ASSESSMENT
+DTSTART;TZID=Romance Standard Time:20251209T144000
+DTEND;TZID=Romance Standard Time:20251209T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T302
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000003C022D33AA23DC01000000000000000
+ 0100000003B2A04CABAC8E7438DCC561BFA01214E
+SUMMARY:SOCIAL IMPACT ASSESSMENT
+DTSTART;TZID=Romance Standard Time:20251209T162000
+DTEND;TZID=Romance Standard Time:20251209T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T302
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000FBC3C253AC23DC01000000000000000
+ 0100000009CD2E681308EF0489C9C3D72170C24E3
+SUMMARY:DECARBONIZATION STRATEGIES
+DTSTART;TZID=Romance Standard Time:20251210T094000
+DTEND;TZID=Romance Standard Time:20251210T111000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T305
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000E1459B54AC23DC01000000000000000
+ 0100000006278E61CA3369640B6089AA7DDFADB8A
+SUMMARY:DECARBONIZATION STRATEGIES
+DTSTART;TZID=Romance Standard Time:20251210T112000
+DTEND;TZID=Romance Standard Time:20251210T125000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T305
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000002C157955AC23DC01000000000000000
+ 0100000006BE4DCF8A72EDD4C9BE4D2B42CEF4473
+SUMMARY:DECARBONIZATION STRATEGIES
+DTSTART;TZID=Romance Standard Time:20251210T144000
+DTEND;TZID=Romance Standard Time:20251210T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T305
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000535C4A56AC23DC01000000000000000
+ 0100000008BE4C90882B9AD49856BD9870E61DF61
+SUMMARY:DECARBONIZATION STRATEGIES
+DTSTART;TZID=Romance Standard Time:20251210T162000
+DTEND;TZID=Romance Standard Time:20251210T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T305
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000E27A6763AE23DC01000000000000000
+ 01000000062A65B7FCEB09A4496652E2BFD393BB9
+SUMMARY:BUSINESS\, HUMAN RIGHTS &amp\; THE ENVIRONMENT
+DTSTART;TZID=Romance Standard Time:20251211T144000
+DTEND;TZID=Romance Standard Time:20251211T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:-T203
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000E3452964AE23DC01000000000000000
+ 010000000038393CD2765C84988412C9D636DA349
+SUMMARY:BUSINESS\, HUMAN RIGHTS &amp\; THE ENVIRONMENT
+DTSTART;TZID=Romance Standard Time:20251211T162000
+DTEND;TZID=Romance Standard Time:20251211T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:-T203
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000051610F65AE23DC01000000000000000
+ 010000000F40C3AAC9B6DEC4E8B3F9D26320427AA
+SUMMARY:BUSINESS\, HUMAN RIGHTS &amp\; THE ENVIRONMENT
+DTSTART;TZID=Romance Standard Time:20251211T180000
+DTEND;TZID=Romance Standard Time:20251211T193000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:-T203
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000002C3B5A22B823DC01000000000000000
+ 010000000F05F74BE0508BB4D880ECEB5231A1DF2
+SUMMARY:DECARBONIZATION STRATEGIES
+DTSTART;TZID=Romance Standard Time:20251215T144000
+DTEND;TZID=Romance Standard Time:20251215T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T001
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000003D896423B823DC01000000000000000
+ 01000000075B894AC797A0C4AB8BE2F3E214CBE3E
+SUMMARY:DECARBONIZATION STRATEGIES
+DTSTART;TZID=Romance Standard Time:20251215T162000
+DTEND;TZID=Romance Standard Time:20251215T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T001
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000081D81AEBA23DC01000000000000000
+ 010000000D7A9562821CEFC448103050DF7023787
+SUMMARY:DECARBONIZATION STRATEGIES
+DTSTART;TZID=Romance Standard Time:20251216T144000
+DTEND;TZID=Romance Standard Time:20251216T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T001
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000001EEC64AFBA23DC01000000000000000
+ 0100000006E9A3BBBE594634998072ABBD7BCC796
+SUMMARY:DECARBONIZATION STRATEGIES
+DTSTART;TZID=Romance Standard Time:20251216T162000
+DTEND;TZID=Romance Standard Time:20251216T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T001
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E0080000000039A50890BE23DC01000000000000000
+ 0100000001FA7FB9BF122B64C8490626D9CB8B0E8
+SUMMARY:DECARBONIZATION STRATEGIES
+DTSTART;TZID=Romance Standard Time:20251217T144000
+DTEND;TZID=Romance Standard Time:20251217T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T001
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000C8021491BE23DC01000000000000000
+ 01000000061E13FFECB3A5941B7B54F9801F395BE
+SUMMARY:DECARBONIZATION STRATEGIES
+DTSTART;TZID=Romance Standard Time:20251217T162000
+DTEND;TZID=Romance Standard Time:20251217T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T001
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000DEE467F2C123DC01000000000000000
+ 010000000D5836C9D07254C41891FAED3DF76DD28
+SUMMARY:BUSINESS\, HUMAN RIGHTS &amp\; THE ENVIRONMENT
+DTSTART;TZID=Romance Standard Time:20251218T144000
+DTEND;TZID=Romance Standard Time:20251218T161000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T025
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E00800000000DB775AF3C123DC01000000000000000
+ 01000000036591948CB9E6F44964B56943649E369
+SUMMARY:BUSINESS\, HUMAN RIGHTS &amp\; THE ENVIRONMENT
+DTSTART;TZID=Romance Standard Time:20251218T162000
+DTEND;TZID=Romance Standard Time:20251218T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T025
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-\;\n
+UID:040000008200E00074C5B7101A82E008000000006D5157F4C123DC01000000000000000
+ 01000000058EEF005A0176B468B23FB3E3FF3014E
+SUMMARY:BUSINESS\, HUMAN RIGHTS &amp\; THE ENVIRONMENT
+DTSTART;TZID=Romance Standard Time:20251218T180000
+DTEND;TZID=Romance Standard Time:20251218T193000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250926T112739Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:T025
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+END:VCALENDAR

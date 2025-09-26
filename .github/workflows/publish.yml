@@ -1,0 +1,56 @@
+name: Fix and Publish ICS
+
+# Quand s'exécute le workflow ?
+on:
+  schedule:
+    - cron: '0 * * * *'   # toutes les heures (minute 0)
+  workflow_dispatch:       # permet de lancer manuellement depuis l'interface GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Récupère ton code (fix_ics.py)
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # 2. Installe Python
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      # 3. Installe la dépendance "requests"
+      - name: Install dependencies
+        run: pip install requests
+
+      # 4. Lance ton script Python en lui donnant l'URL Outlook (stockée en secret)
+      - name: Run script
+        env:
+          SOURCE_URL: ${{ secrets.ICS_SOURCE_URL }}
+        run: |
+          sed -i "s|SOURCE_URL = .*|SOURCE_URL = \"${SOURCE_URL}\"|" fix_ics.py
+          python fix_ics.py
+          ls -l
+          cat calendar.ics | head -n 20
+  
+      # 5. Publie le fichier ICS corrigé sur la branche gh-pages
+      - name: Publish to gh-pages
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Récupère ou crée la branche gh-pages
+          git fetch origin gh-pages || true
+          git checkout gh-pages || git checkout --orphan gh-pages
+
+          # Copie le fichier corrigé et le renomme en index.ics
+          mv calendar.ics index.ics
+
+          git add index.ics
+          git commit -m "Update ICS" || echo "No changes"
+          git push origin gh-pages --force
