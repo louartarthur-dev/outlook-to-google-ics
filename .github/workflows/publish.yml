@@ -35,7 +35,9 @@ jobs:
         run: |
           sed -i "s|SOURCE_URL = .*|SOURCE_URL = \"${SOURCE_URL}\"|" fix_ics.py
           python fix_ics.py
-
+          ls -l
+          cat calendar.ics | head -n 20
+  
       # 5. Publie le fichier ICS corrigé sur la branche gh-pages
       - name: Publish to gh-pages
         run: |
